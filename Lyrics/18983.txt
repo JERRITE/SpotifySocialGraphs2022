@@ -1,0 +1,921 @@
+The History Of The SCP Foundation LyricsWay back in '07, /x/ was an interesting place, bursting with new ways to keep you up at night. Stuff like the oldish creepypastas were actually creepy, instead of being something that made you wonder how it ever spooked anybody. In the summer of that year, what was intended as a one-off creepypasta became something explosive. SCP-173, "The Statue."
+
+It all started with SCP-173. It was a random, one-off creepypasta, but it inspired a lot of people. before long, other entries started popping up, and then one day someone made a wiki for it, so they wouldn't all 404 eventually. This was when /x/ was still young-ish, and The Holders, Ted the Caver, Treedog, and other old-school /x/ rubbish was still very new and decent. -DrGears
+
+The initial appearance of SCP-173 was something really different to the /x/ community. Instead of being a basic story with a jump scare punchline, or a thing that made you feel squicked and scared, it was designed to make you wonder, and draw fear from that. You can imagine the reaction of many internet dwellers as they first scrolled down to see that thread.
+
+It was popular. The original thread stuck around for a couple days, as many people marveled at the creepiness of the writing and the implication that there were more things just like it somewhere else. But as some were thinking of what could be out there, others wanted to know how they could get their piece of the SCP pie. They became the very first entries to what was then known as "The SCP Series." It's also when we got a few of our oldest and earliest shapers of the community, such as DrGears, A Fat Ghost, Kain Pathos Crow, FritzWillie, and Bijhan.
+
+With these writers, we also got some of the oldest and most loved(or hated) entries to the SCP Series. Able is pretty much the first you think of when it comes to this category. He was a creation of Kain, but when he was first created he didn't look how he did today. Rather, he was closer to being the "Guy what fights good" many people now decry him as. The concept of Mobile Task Force Omega-7 was in full swing, and the concept of using anomalous objects for the Foundation's benefit was the rule rather than the exception.
+
+DrGears wrote many of his current 42 articles in the old /x/ days. Some, like the now-deleted SCP-031 "Parasite's Generation" did not last. However, quite a few gems have survived to this time. SCP-682 was made in its original form, ready to gnash and destroy all it could. But it too has been significantly revised over time. Originally, it didn't have the interview log and had a weaker description. It received its change from an anonymous writer on the EditThis wiki. The Dr. Gears character also came from this time, from a prototype tale. The tale in question was a note reprimanding some researcher for cross-testing two different SCPs, which resulted in the creation of SCP-682. When it was posted to /x/, it brought criticism for being far too emotional and un-scientific. As such, DrGears reshaped the character as a man who has no emotion, deeply traumatized by the goings-ons of the Foundation.
+Although many users embraced the SCP Series and used the idea well, some were unsatisfied with the limits of merely posting in forum threads. In addition, many denizens of /b/ and /x/ were beginning to grow weary of repeated threads being created. So on January 19th, 2008, the SCP Series wiki was created on the EditThis wikifarm. Most of the entries that were moved to the EditThis wiki were the original works of the users on /x/ and /b/. With the creation of the SCP Series wiki, the community began to post fewer and fewer threads on 4chan, instead writing directly to the wiki. As such, /x/ and /b/ ceased to be the primary medium of these works, with the threads slowly fading away.
+
+The SCP wiki got its start on EditThis, a wikipedia clone. It was unpolished, a little bit sloppy, and in retrospect probably not a great place to start out. The entries were displayed on a big list, similar to the one we have. Communication between different members of the community was difficult to accomplish, since the discussion page as we know it did not exist, and the pages where we could communicate were primitive. This junction is also where we gained other influential members, such as Bright and Eberstrom. It's still possible to see some of the old comments by using the wayback machine on EditThis.
+
+Eberstrom was definitely one of the most influential members of the old wiki, yet has been buried in the dustbin of history. Looking through many of his posts on the old discussion pages, it is obvious he was very influential, and was well known by DrGears, Kain, and FritzWillie. His 001 proposal was one of the first on the site, and the oldest one to survive from EditThis(In -ARC form).
+
+The entries on EditThis grew from less than 200 to many hundreds over the course of a couple months. The SCP-001 proposals did not exist, as the number 001 was initially held in abeyance, with the label "reserved until someone makes an entry worthy of SCP-001." Several SCP-001 Proposals were eventually created: Eberstroms Proposal(Site-19), Catalyst's Proposal(Also Site-19), DrGears Proposal(The Prototype), Jonathan Ball's Proposal(The Sheaf of Papers), and Taisaijin's Proposal(A Lost God). Only DrGears and Ball's proposal's still exist, with Eberstrom's having been -ARC'd and the rest deleted.
+
+Joke articles date back from the EditThis wiki, where they consisted primarily of pop culture references and the like. We had stuff from various books, movies and comics, with an entire series of objects based on the portal series. When the wiki was ported to WikiDot, there was some discussion about deleting the joke entries altogether, since at the time they occupied normal SCP number slots. They were eventually moved to their current section, with the pop-culture entries purged during the Mass Edit.
+
+Additional influential entries were made during this time, exclusively on EditThis. Josie the Half cat was one of the first major entries to be posted on EditThis, and was popular enough that the first SCP logo was based on her appearance. You can see it here! DrGears also wrote a significant number of articles, posting entry after entry to the SCP Series main page. Many of the Broken God and MC&D stuff, as well as his classic articles1 were written at this time.
+
+It was during the EditThis days that the scientific rigor we hold all articles to began to take shape. Prior to this, many authors casually disregarded basic science and mathematics in order to make their entries. As time went on and more additions were made to the series, people began to make more and more unscientific articles. People got sick of it, and on March 23rd, 2008, a user named Aiden made this post on the SCP Series discussion:
+
+Would anyone really object to me going through these over the course of the next week or two and truncating the overly precise measurements? There are quite a few SCPs that say stuff like "approximately 57.23545445 cm". There's no need to go down to nanometers when you're writing an executive summary. It could probably even be reduced to a single significant digit. In most cases I'll probably round it off to tenths or hundredths of a unit, if not whole units. I'll also be converting all measurements to SI, because that's what you use in a research report. Miles/pounds/etc may be included in parentheses if really necessary.
+
+I'm also seeing that a lot of reports are straying from the Item #/Object Class/SCP/Description format. Some are just missing an Object Class (and while I'm at it, some having the WRONG class, IMO) and others are just cluttered whitespace-wise. I'm going to go ahead and make the sections (#/Class/SCP/Desc) bold and add some white space where needed to make them easier to read. There's a couple that are pretty narrative, and I won't touch those without some discussion.
+
+I'd also like to edit the (IMO) over-doing of many of the SCPs and descriptions. Reduce the usage of the words "terminated", reduce the usage of ALL CAPS where it isn't needed, edit/remove unexplained/excessive procedures (not ones that add to the experience, I mean ones like burying an object in 10 tons of dirt and replacing the dirt every other day for no apparent reason or how every other SCP involves very precise temperature ranges which would never occur in nature prior to containment), etc. I don't mean to intrude on anyone's creativity here, honest, I just see an opportunity for improvement is all.
+
+The response from an anonymous user was:
+
+Go ahead, that sounds like a good idea. Conversion to SI will really add to the scientific style. Removing oxymoronic expressions like the one you quoted is fine by me.
+
+The basic formatting for the creation of these articles differed greatly from what we have now. For one thing, anyone could edit any entry at any time, and for any reason. Pop culture references were fairly commonplace, with many of the discussion pages mentioning them. Instead of the current comment system, we had discussion boards for each article. Articles were formatted in the same style as Wikipedia, and the general interface was primitive. But there is still something charming about the whole thing. It was just a group of anonymous /x/ and /b/ users getting together to create something they all thought was pretty cool. Reading through the old discussion pages brings a sense of hope for the future.
+The community on EditThis was loose at best, with most communication taking place on /x/ or through the board discussion pages. There were few guidelines, with the only actual "How to Write an SCP" guide being at the bottom of the website and entirely optional to read. There was no deletion process, with many terrible entries being left on the mainlist. A few of these entries2 would be left behind when the move to WikiDot was enacted.
+
+Despite the lack of quality control, the first hazes of canon began emerging during this time. Secure Facilities showed that the Foundation had a reach beyond Site-19, and the O5 council gave the idea that the SCP Series had in-character leadership. Concepts such as D-Class were introduced, then called variations on the name "D personnel." There were no senior staff author inserts, and no such thing as Foundation Tales. Users would leave O5 notes at the end of articles, leaving comments about the articles. This led to a development to sillier and sillier notes, which in turn resulted in several edit wars between users who appreciated the humor, and those who did not.
+
+In the end, EditThis was never a viable home for the SCP Series. The web host was running out of capital, and was forcing many of his subscribers to either pay him or be deleted. We didn't have the resources to pay, which meant imminent deletion was looming. There was some debate on the EditThis wiki on where the Series would go. Since EditThis had no admins, we'd basically been an anarchic internet society. With the EditThis wiki no longer being a viable home for the SCP Series, a new host was needed.
+
+I was on that site for a few weeks submitting with others when I found out the original creator had abandoned it, at it was in danger of being canned by the hosting network, so I migrated all the stores to wikidot by just copy and pasting everything over - FritzWillie/The Administrator
+
+FritzWillie decided to set up the wiki, on WikiDot, and it went up on July 19th, 2008, and from there was an uphill battle to bring content and writers over. By July 25th, 2008, the WikiDot wiki was ready to go live. This message was the first news update for the wiki, posted by The Administrator as he opened up the wiki for the first time
+
+The Forum is up.
+Page Rating is available.
+The website is going live today. All permissions are open.
+Welcome
+
+However, when he set it up, there were actually two accounts opened up with his name. In secret, he set himself up both as "The Administrator" to do administrative work and as "FritzWillie" to do writing work. He told nobody about this, and contributed mostly under the FritzWillie name, while doing most admin work under the The Administrator account.
+
+I guess a little, like I said, I admined as one and contributed as the other, I didn't want people to upvote one's I submitted as "the administrator" just because I saved the site, so most were submitted as fritzwillie's - FritzWillie/The Administrator
+
+There was soon a flurry of activity, as authors came in from the sinking EditThis wiki to see the new one. The first adminships were assigned to The Administrator, DrGears, FritzWillie and Kain Pathos Crow, while the first mods were Lt Masipag and Kraito. They got to work building the wiki as quickly as possible.
+
+The Admin wrote a few nice articles, but other than that, I have no [idea] what he was like. I don't even know who he was on the original wiki. I just know he chose me as one of the Big Four because I was active all the time on the old wiki. - Kain Pathos Crow
+
+I didn't want to play favorites or have people favorite mine just because I was the adminstrator - FritzWillie/The Administrator
+
+FritzWillie created the "The Administrator" account because he didn't want the man who started the WikiDot wiki to also be contributing stuff. He thought it might result in nepotism upvotes. He built the initial pages, such as the series page, assigned the moderators and administrators and worked diligently to bring folks in from EditThis. This is what established the WikiDot wiki as the de-facto home of the SCP series, and not just another option for the creepypasta series. He contributed several articles that continue to bring acclaim today, such as the coat of many arms and the Living Room. He also created "A Word From the Administrator."
+Mankind in its present state has been around for a quarter of a million years, yet only the last 4,000 have been of any significance. So, what did we do for nearly 250,000 years? We huddled in caves and around small fires, fearful of the things that we didn't understand. It was more than explaining why the sun came up, it was the mystery of enormous birds with heads of men, and rocks that came to life. So we called them 'gods' and 'demons,' and begged them to spare us and prayed for salvation.
+
+In time, their numbers dwindled and our numbers rose. The world began to make more sense when there were less things to fear. Yet, the unexplained can never truly go away, as if the universe demands the absurd and impossible.
+
+Mankind must not go back to hiding in fear. No one else will protect us, we must stand up for ourselves.
+
+While the rest of mankind dwell in the light, we must stand in the darkness to combat it, contain it, and shield it from the eyes of the public, so that others may live in a sane, normal world.
+
+We secure. We contain. We protect.
+- A word from "The Administrator"
+
+FritzWillie was active for only a short time on the WikiDot wiki, but his contributions cannot be understated. Some of the most influential entries on the main list were created by him, including Cassie, The Creeping Hungry Sands of Tule, Fernand, and the WW2 Molecular Fission Cannon. He was also responsible for the co-creation of the wiki's first guide, where he would attempt to describe tone.
+
+Well, Fritzwillie was intelligent, with a good eye for military matters. After that, I don't know, he disappeared soon after the Foundation secondary website was established. -Kain Pathos Crow
+
+Kraito was one of the first two moderators, given moderative powers because of his numerous contributions to the series. He disappeared shortly after the series was moved to WikiDot. Over the years his contributions reached low scores and were deleted. Eventually his personnel file was also removed, relegating him to the dustbin of history. He resurfaced briefly in early 2014, and posted a new SCP.
+
+Lt Masipag(Known as "Unite 3-012" on the EditThis wiki) was made a moderator at around the same time as Kraito, and was the first female member of senior staff. Unlike Kraito, Masipag stuck around for awhile and contributed to the moderation of the wiki. She contributed many of the important pages that still affect canon in major ways, including the groups of interest page, telekill alloy, and moving articles over from the old wiki.
+
+SCP-001 was another point, if a comparatively minor one. The spot of SCP-001 was left open by the Administrator, to see what would happen. Masipag locked the page up, and in the debate that followed claimed that she didn't think we ought to have any 001 proposals at all. Today we have ten SCP-001 proposals, so she was correct at that time. If there'd been only one 001 proposal, we would've never seen some of the wiki's better pieces.
+
+The earliest effort on WikiDot was moving the Series entries over. There were several hundred articles, and only a few people able to move them. But it had to be done. The users who moved over most of the old stuff were far2, xthevilecorrupter3, and Lt Masipag. Masipag had a computer program to move them over, while far2 and ecks did it manually.
+
+However, not everyone was aware of the change. Many users of the EditThis wiki would remain there for the following weeks, unaware of the WikiDot site. The EditThis wiki would continue to exist with a small community until its eventual deletion on September 6th, 2008.
+
+The WikiDot wiki was not the only one set up during this time. FritzWillie used the "The Administrator" account also set up the Soap From Corpses Products, Society of Skeptics and the Paranormal, and an Application wiki. These websites, while an interesting idea, were just not the right fit for a just-starting community. The Society and Soap websites were never used, with the only notable contribution being original art by far2.
+
+"SCP Admin Court of Council" was a pre-05command admin site, where the Admins of the site would be able to discuss private matters. There were only four members of the site, being DrGears, FritzWillie, Kain Pathos Crow and The Administrator. Many of the issues that affected the early wiki were discussed here, such as the implementation of different object classes, the HAGGAR attacks, and promotion of users. The site was later replaced by 05 command in May of 2009.
+
+The earliest promotion thread can be found here, where Kondraki, Clef, The Fishmonger and far2 were promoted. Kain Pathos Crow and DrGears were by far the most active administrators, with The Administrator himself posting a small but still significant number of times. FritzWillie had the least amount of activity, with only 3 posts, probably due to him wanting the account used primarily for writing.
+
+One of the three earliest Mods, far24 was responsible for transferring a healthy number of articles to the new wiki, with a current count of the articles he worked on being 52. Interestingly, he didn't begin writing entries of his own until July of 2008, when he posted SCP-235, which was later transferred into a tale. He also contributed a great deal to WikiDot coding of things, creating the format for the threat classification modules and the threat level module. He drew up a great deal of photoshopped images for various articles, including Josie the Half-Cat and the Star Eyed Child.
+
+However, far2's most long lasting and arguably most important contribution to the wiki, was the creation of the SCP "logo." In October of 2009. a forum post was made to propose the creation of an SCP Foundation logo. Several entries were made, and were met with unenthusiastic reception. However, as it was winding down and being forgotten, far2 made a post that would influence the wiki for years to come:
+
+That's not the original logo I did up. The original is below, I just ran it through Photoshop's photocopy filter. I used that symbol to make it look like the 'shield' or badge used by law-enforcement agencies, and also because the arrows indicate moving inward - containing the threats.
+- far2
+
+The image(Which is no longer available) was the original iteration of the SCP logo. While countless additional iterations and versions have been created and altered over the years, the basic image of three arrows and a shield has remained intact. Due to personal life issues, far2 left the wiki in late 2008/early 2009. His final departure came after a long period of absentee administration.
+
+The Fishmonger was another early mod, known for his writing talent and his ability to write epic, overarching stories for the wiki. In his early years, he was known for being a very rude, sometimes outright cruel mod who also wrote most of the stories that the wiki was known for at that time. His SCP-808, a technopath, was used in his popular "Wanderlust" stories.
+
+At this early junction, Fishmonger was an indispensable asset to the site, as his stories attracted many new users and inspired new content. His mod powers, however, were not utilized for moderation of the wiki, instead being used to occasionally troll people or edit other works in order to have them fit in with his stories. While this behavior would usually not be tolerated now, it was put up with because of the high demand for his works.
+
+Canon was something new to the wiki, and we took great strides in creating what we now know as the Foundation. When the SCP Series was first moved over to WikiDot, there was conflict over what to call the SCP Series. Some thought that it'd be better to leave it ambiguous, while others wished to shape canon by creating an organization. Various names which were considered included organization, foundation, and collection5. On July 27th, 2008, the name was canonized as "Foundation."
+
+WikiDot's SCP Foundation wiki was originally an open project, where anon edits were commonplace. During this time, anyone could come in and edit anything they wanted, in addition to making posts. Being a member was completely optional, and frequently disregarded. Soon, events would force this to be changed, from anonymous edits being allowed to anonymous edits being completely removed.
+
+The HAGGAR attacks took the wiki by complete surprise. The first incident took place on October 18th, when he created dozens of spam threads and attempted to delete many of the wiki's pages. They made the classic newbie mistake of sending the pages to the "deleted" category instead of deleting them properly. snorlison and far2 were the primary forces fighting back against these attacks, and were promoted for their efforts. The second HAGGAR attack, on October 25th, was successfully defeated by an active force of the new mods and admins. The threads created by HAGGAR and his minions were repelled. It was after this attack that the anonymous edits were permanently revoked.
+
+Administration followed the removal of anon edits with measures to keep the wiki safe, with the most notable attempt being an application website, where users wanting to join the Foundation could apply. The application wiki would test newcomers to the Series. They would have to join up, then make two successful audition articles to join the WikiDot site properly. However, this was another idea that was just too ambitious for its time. The Application wiki would be abandoned due to being overly complex, then used as a sandbox for a time, and eventually abandoned completely.
+
+The process for creating SCP's was also much more laid back. Users were encouraged to create sandbox pages in the "practice area", which was a section of the site used for drafting. Any user could create a sandbox there, and many did. There are still several sandbox remnants that can be found on the wiki, usually underneath the "Sandbox" tag. Pre-SCP thoughts would usually boil down to finding a picture that looked cool and writing an article around it. As a result, there were many bland, predictable, cliche, and otherwise negative articles.
+
+Quality control in the early days of the wiki was not nearly as stringent as we now have it. The process for deletion was informal at best, with no written guideline for how staff should be able to move stuff for deletion. As such, there were a significant number of entries which were either trying to be Able, or were just plain dumb. These articles had very low quality, hanging around in the low negatives indefinitely.
+
+There were also various debates on how to change the structure, primarily focusing on Object Classes. The three primary object classes currently used by the wiki are Safe, Euclid, and Keter. There is debate about which object class means what, and how they're really supposed to be defined in-universe, but that debate is for another place. For the purpose of this essay, we will go by this author's interpretation of the locked box test. Safe means if you lock it in a box, it stays put. Euclid is you put it in a box, it's unpredictable. Keter pops out of the box and eats your grandmother.
+
+However, these aren't the only object classes we can use. We've had several evolve out of contests, or old practices on the wiki which we no longer use. Explained articles came from contests to test out new object designations. Only a few were able to stick around, but they do make for interesting tidbits. At the time of this writing, there are eight articles with the -EX designation.
+
+Decommissions will be discussed in greater depth later in this essay, so here is a brief explanation. Decomms were created so that the wiki could be purged of the worse entries in the series. After awhile, they realized that it was counterproductive, since for every Mary-Sue SCP they got rid of, they made the researcher characters more Sueish. So the decomms were left as-is, and today serve as examples of "What not to do."
+
+There are also some designations which are no longer in use. For example, on the original /x/ SCP Series, there was the Thaumiel designation, which was basically the "Anti-Keter" article series. It fell out of use for some time, before being used in Roget's Proposal and then SCP-2000. Split object classes were in use for some time, such as Safe/Euclid, Euclid/Keter, and Safe/Keter.
+
+In the beginning of the WikiDot wiki, there was discussion on sub-classes and threat identifiers. Some wanted the implementation of sub-classifications Alpha, Beta, Gamma within each Safe, Euclid, and Keter class—Alpha being the least dangerous subclass, Gamma being the most. For example:
+
+SCP-3110 "The Chestnut of Doom" — Object Class: Euclid | Subclass: Alpha
+
+The threat identifiers were basically images used to identify what the object could do on short notice. They served a purpose that's almost similar to our current use of tags - identifying what properties the object had in addition to their object class.
+
+Although there were many proposals to create new object class designations, all attempts to implement one failed.
+
+The Groups of Interest was the creation of Lt. Masipag, one of the SCP WikiDot sites earliest moderators. People had created several groups which re-appeared through different articles, such as the Church of the Broken God and the GOC. Most of the first GOI's were created by Kain Pathos Crow and DrGears. The original6 GOI's were ███████████ ███████ Labs7, The Chaos Insurgency, The Church of the Broken God, the Army of the Guardians of the Islamic Revolution8, "Foo"9, The Global Occult Coalition (GOC), The Serpent's Hand, Marshall, Carter, and Dark Ltd, and the Unusual Incidents Unit (UIU)
+
+GOC was inspired by a pasta that was roaming /tg/ or /x/ at the time about how Nietsche was wrong, God wasn't dead. At least, not when he wrote that. The entity that called itself YHWH didn't die until the late 50's, destroyed by the Russian Army.
+
+Chaos Insurgency was the around the idea of a "badguy" foil for the Foundation.
+
+Foo was just a random idea, the sort of "The Men in Black" kind of character. Someone else named him Foo, possibly Iceberg7. I think I had no name for the GOI.
+
+I set up the very first GOIs, the page and everything. It was a little bit more BRPD than one would expect, but I blame Hellboy for that.
+
+I also set up the tales page, but I didn't write any for a long time. I just instituted it because there were a lot of articles appearing that would have worked better as stories, or people wanting to do stories about things. There was also the stuff for incident reports, experiment logs, eyewitness accounts, all that was set up by me. I spent a good deal of time setting up the Creepypasta library too, but they removed that in recent times for some reason. I have no idea why. - Kain Pathos Crow
+
+There was also the creation of the "Active Projects" section, with the first tasks being the SCP CYOA game started by Kain and the .pdf project started by Kondraki, only the latter of which actually got anywhere. The .pdf project was created as a .pdf archive of all SCP articles, created with a template10 which gave them an "authentic" look. However, many of the entries in the .pdf project have since been deleted, which was not a problem seen at the time due to the vagaries of deletion policy.
+
+There was very limited administrative action against the lower rated articles, as evidenced by the small number of pre-Mass Edit deletions. The only active administrators were Kain Pathos Crow and DrGears, with FritzWillie having left shortly after the establishment of the SCP Admin Court of Council due to health reasons. So shortly after the move to WikiDot, he left site administration. He had never been extremely active, posting most of his stories on WikiDot. Fresh blood in the form of moderation assisted somewhat, but it was still an uphill process.
+
+Following the departure of FritzWillie/The Administrator, a dual power system emerged. Most of the authority in the wiki was coming from Kain and DrGears, who would go through the site proposing projects and helping people write new SCP articles. There was also the attempt at a Choose Your Own Adventure game, a first person shooter game, and a collectible card game. All of these projects were eventually abandoned.
+
+As the site moved towards 2009, things were shifting, and major changes were occurring in tone. New users had entered the culture, and had begun writing a whole series of new classic articles. The new site administrative powers came in and began changing things more drastically than they had ever been changed before. The little wiki had finally gotten its footing, and was plowing ahead with its tiny but dedicated community.
+
+As the wiki continued, large amounts of poorly written entries were created. The discontent is expressed in this post by Kain Pathos Crow.
+
+https://web.archive.org/web/20080605225613/4chanarchive.org/brchive/dspl_thread.php5?thread_id=70544932&x=Special+Containment+Procedures11
+
+This is where we began.
+
+These are our roots.
+
+There were no X-men, no cliches, no self inserts, no glory hogging, no drama.
+
+There was only one thing.
+
+The will to create.
+
+To create something that was beyond the norm, but close enough to be intriguing. Something that was unbelievable, but capable of causing that slightest hint of self doubt. Something that added to the vaguness of this mystery organisation, rather than spell out it's hidden means and aims.
+
+True, we have become more structured, more informed, more thorough, but at what cost?
+
+The Foundation itself is no longer this great shadow that looms over the horizon, too huge and far reaching to truly see. It has become a pet, something that allows itself to tamed and groomed.
+
+This is where we were born, in that chaos, where the ignorant were spurned, the immature ignored, the worthless cast aside, and the great gave way to what mattered. The post.
+
+But how do we reclaim this lost glory? - Kain Pathos Crow
+
+In the beginning of 2009, DrGears authored his response. It carried with it the goals that the wiki would take with it to the next year. By this time next year, most if not all of these goals would have been achieved in some respect.
+
+That is the issue we have: as we add, we destroy. With every entry, it peels away the horror more and more. Some entries add, and even enhance the feel of the first entry, however many more tear it down.
+
+Annihilation of the wiki and a return to the chans would work, but to give up due to a wave of fail and retreat back to the primordial ooze of 4chan is a action i would like to postpone as long as possible.
+
+We strive for involvement, for a openness to new ideas, and it has worked well thus far. Multiple people working in the same shared universe will skew the initial vision, but we've done tolerably well until now.
+
+However, we seem to now be drifting much more drastically. With a recent influx of new users, we've had to constantly remind, prod, and threaten to try and maintain the initial vision of the SCP. The SCP are made to be taken and placed into a game, movie, comic book, or any other "cool" application. They are creepypasta, short fiction designed to unsettle and creep out readers. Any other application is secondary.
+
+My solution to the Fail Influx is simple and draconian:
+
+1: Massive deletions - We have a ton of SCP items, and we could trim over 1/4 of them with no issue. No decommission, no "please edit" pleading, just gone. Free the number for someone else.
+
+2: Stricter Edits - If people ask you again and again to edit your work, and you do nothing, be prepared to lose your article. If you don't want to be productive, we have other people who are. If your only response is "ok, you fix it then", then be prepared to lose your article to the editor. If you made a steaming pile of crap, and someone edited it into solid gold, then THEY should get the credit, not you.
+
+3: Banning - If you are consistently a jerk/uncooperative/stupid/horrible at writing, we do not want you. If your SCP keep getting downvoted/deleted, maybe you should be doing something else. Instead of constantly cleaning up after bad users, remove the source of the issue.
+
+In addition, a major issue appears to be users who have NO IDEA what they are doing. I hate to use chan terms, but lurk the hell more. Read entries, go over the "How To" page, read comments, look over the highest and lowest rated. Take at least a couple weeks to get into things before you start trying to post. Don't dive in with a pre-made avatar, twenty SCP ideas, a revolutionary image for The Foundation, and a new "storyline".
+
+In short, we need to start acting more like The Foundation: a soulless, shadowy, bureaucratic entity, with zero tolerance for mistakes, incompetence, or insubordination. One who's actions are carried out swiftly, and without apology or explanation. - DrGears
+
+This would be the new attitude of the wiki, as we moved to a new era.
+
+As we moved into late 2008, close to 2009, the wiki was still experiencing a lot of sweeping changes. The number of SCP articles seemed to be growing at an ever-increasing rate, and we now had tales being added to the Library section. We had moved from having 4 admins and 5 mods to having 5 admins and 7 mods. The members pages had grown to approximately 16 pages. It was still small enough that one person could know everybody else, while also large enough to cultivate an interesting and varied body of work.
+
+Chat also began at this time. It was founded by Kondraki, who created it as IC chat. It wasn't very active, in the words of Pair of Ducks:
+
+I became active in the community because of the chat. It was actually Kondraki that originally made #site19, actually. But chat was fairly ignored then; only him, myself, snorlison, and Fritz (yes, Fritz!) were ever on. Chat was also supposed to be in-character back then!
+
+Eventually #site19 become completely forgotten … but I came back, registered it, and started really trying to get people in there. For a while, it was -still- mostly myself, Kondraki, and Snorlison on … I remember when Gears came into the room one day, it was like we'd met a celebrity xD … but chat got big pretty quick; soon we had Iceberg, Rights, and others popping in regularly. - Pair of Ducks/Paradox
+
+Writers such as yellowdrakex (Rights), name,1 BlastYoBoots, and Eberstrom2 made their debut on the WikiDot wiki. These new writers would begin to fill the 001-999 SCP block with hundreds of entries, some good, some bad, but all new and arguably original pieces.
+
+There was also the use of WikiDot tools, like the threat module, mass orient canon, and navigation bar. Created by Ekzhentric Lohner, these tools allowed for an easier way to browse the SCP wiki. The threat modules were designed to supplement the object classes, providing a small illustration that would better provide how the SCP affected you (Cognitohazard, Memory-Affecting, Toxic, Memetic, etc.).
+
+The mass orient canon was a tool that allowed you to go on archive binges, with a simple interface. It's basically a module that listed every page on the wiki, with some preference settings. The navigation bar was simpler, a way to move from one page to another without having to navigate back to the main page. Lohner created these tools without permission, and was thus subjected to angered admins, who didn't like the tools and thought Lohner was just messing with stuff. However, she kept a cool head throughout the process, and eventually was looked on as someone who had the potential to be staff (and would eventually become staff).
+
+A few of these users would also become the next generation of mods and admins. By February of 2009, Iceberg7, Fat Ghost, Bright, and Pair of Ducks had become moderators, and DrKondraki had become an administrator. With the new set of authority figures, Kain and Gears began to become less central to site authority. The balance of power would swing away from them and into the hands of DrKondraki, who would become the dominant administrator of the Wacky Hi-Jinx era.
+
+Two major different writing styles would begin to emerge with the new generation of producers. There were those like HK-016, who would attempt to ground their articles in heavy, real world science that would act as the hook. Others, like Rights and DrKondraki, wrote entries that were very character-driven, trying to explore the Foundation from the perspective of one researcher. There were SCP objects stored in offices, handled only by specific researchers. By February of 2009, the second style had become the dominant style of the wiki.
+
+With this shift in writing came a shift in tone. Tone of the site was rapidly shifting from stark horror and seriousness to a goofy, sillier and much less serious style. The "Wacky Hi-Jinx" era, as it is now known, would be a time of loosened regulation. What we now call "lolfoundation" came to be, wherein the writers would try to be funny and cute, instead of horrific or scary. The "Keter Duty" addenda came to be during this time, where users would add bits to their articles saying that misuse of the object would result in being assigned "Keter Duty." We also had many articles using now-unpopular writing tactics such as using [DATA EXPUNGED] repeatedly, cross-references, and things that were knockoffs of older articles.
+
+In January, a large-scale SCP review was attempted, but never really got off the ground. There were simply too many SCP articles being posted too quickly for any sort of review to be effective. Staff at the time were unwilling or unable to lock down the wiki for a review, and as such, the idea passed without any major action being taken. Entries would continue coming in at the same pace.
+
+Despite that, we also came into what could be called a "Golden Age" of the wiki, as some have called it. There were many people producing lame content, but also a lot of great content. The site as a whole was developing an identity for itself, and developing a more complex canon. One of the major factors here was the stories of "The Fishmonger." His first major story, Wanderlust, was seen as an epic story.3
+
+Unfortunately, with the good came a lot of bad. There were numerous terrible entries created in late 2008 to early 2009. Although you had to make a wiki account to participate, we still had numerous items that were either Mary-Sue power fantasies or something really dumb/not suited for an SCP. Examples can be found on the decommissioned SCP page. This was in the wild yonder days before we went and purged the site with the Mass Edit,4 so there wasn't a large process people could turn to by which we could delete a large number of these entries at once. Site administration noticed this, and DrClef in particular decided to take action. A user named Dantenson5 wrote SCP-239, the witch girl. In November of 2008, DrClef made this post on the discussion page:
+
+Dr. A. Clef's Report: My analysis of the situation has led me to the conclusion that SCP-239 is an unacceptable containment and security risk. Although several proposals have been made re: using her for containing other SCPs, the example of SCP-953 and others must serve as a stark reminder of the risks of underestimating the Foundation's ability to control SCPs with reality-altering powers.
+
+I would therefore like to make the following proposal: a piercing implement will be constructed of SCP-148, capable of penetrating SCP-239's otherwise impenetrable skin. This tool will be used to kill SCP-239 while she is asleep and her powers are neutralized. Because of the danger of SCP-239 awakening and resisting termination, it is my recommendation that the selected operative carry SCP-668 as well, in order to minimize complications.
+
+One of the dangers of this procedure is the possibility that SCP-239 will awaken and perceive the operative as a friend or "good person," thus changing reality to match. It is for this reason that I would like to volunteer to carry out the procedure personally. A review of my personnel file should indicate that my [DATA EXPUNGED] should allow me to carry out the operation even after a reality shift of this nature.
+
+- Clef
+
+Following this post, Clef was contacted by DrKondraki, who said that if Clef was going to attempt to destroy 239, then Kondraki would be obligated to go against him. This soon evolved into the story "Termination Order", also known as the "War of the Doctors", which was brought to the wiki on December 4th, 2008. In the course of the story, many of the unpopular articles were decommissioned, which resulted in the story being massively popular. More decomm's would follow in its wake.
+
+The system for decommissioning articles was similar to our current practice of deletion. When staff members noticed an article approaching an exceptionally low rating, and nobody wished to/was able to save it, they would call for a decomm. If enough support was gathered, a decommissioning story would be written and the article in question would be deleted. A copy would then be preserved on the decommissioned SCP section. Unfortunately, the original discussion pages for these articles was also deleted. However, one article I have found still has a portion of the process remaining. SCP-213 was called to be decomm'd before NekoChris rewrote it, and as such still has a discussion on whether or not it could be removed.
+
+Decommissioning stories usually involved various senior staff author avatars using increasingly silly means to destroy bad SCPs. It went from articles in which the destroyers used computer viruses to destroy them, to large explosions, to giant metal fists slamming into them. They were also the first time we really saw senior staff author avatars being used in real stories. We got the Clef/Kondraki rivalry from this time, as well as the Dr. Bright, Professor Crow, The Fishmonger,6 Dr. Rights, Agent Streliknov, Dr. Light, Dr. Mann, Iceberg, Break, and Dr. Glass characters. It was a time of character pieces, fun stories in which interesting characters did cool things in unique places.
+
+There were other decommissioning stories that came after Termination Order, each one trying to be more over the top then the previous one. We had a giant steel fist annihilating Ben the Cyborg, the noble warrior Dyne putting himself on the chopping block, and the ChronoKomodo being blasted to smithereens. The nature of these stories kept getting more and more extreme, culminating in the creation of what is widely regarded as the most OTT decommissioning, Duke till Dawn.
+
+Duke till Dawn served as a sort of wake-up call for the site administration. The plot of Dr. Kondraki riding SCP-682, causing enormous damage to a Foundation facility and killing tons of people showed how far off the spectrum they had gone. Instead of destroying Mary-Sues, they were making more of them. DrClef made this post in the SCP History thread:
+
+At this point, we get a little stupid. We start decommissioning SCPs left and right. People are competing for the funniest and most imaginative decoms. And it all comes to a head with Duke till Dawn, the most over the top decom report of all time. And that's when it hits us: we've become the monster.
+
+In our efforts to get rid of mary sue SCPs, we only succeeded in created mary sue researchers.
+
+My history on the site since then has been devoted to trying to fix everything I fucked up. I don't regret what happened: the energy and excitement led to some of the best writing we've ever had, but while we were roaring down the highway at 90 mph with the wind in our hair, we didn't realize we were heading straight towards a cliff. We managed to hit the brakes with two wheels hanging off the edge, climb gingerly out of the car, wrestle it back onto solid ground, and now we're doing 65 on a road running parallel to the cliff. - DrClef
+
+As the wiki rolled into March, some restraint was attempted in wiki business. Characters were toned down somewhat (although not all characters were). Attempts were made to return to a more serious tone. Not everyone supported these changes, most notably the popular site admin DrKondraki. He preferred to see the Foundation in its old style, and didn't appreciate the darker tone. Kondraki began to act out, editing people's pages and trolling many site users. Many people complained about this behavior, but he was always let off the hook.
+
+The beginning of his downfall was an incident in late February/early March during which he deleted every article on the lowest rated pages list without consulting any other members of staff. Although he was chastised for the incident, he didn't receive direct punishment. This would be the beginning of many such power abuses, where he would get angry and do something rash, then calm down again.
+
+Another incident in March was the first real influx of new users, coming in from TvTropes. The SCP Foundation page had been created over there, drawing in the first real newbie surge the site had seen. It was really only about a couple dozen people, but this was a large increase considering how the wiki had operated in the past. This brought about a change in how applications were done. Instead of being from a separate wiki, or by just being a WikiDot member, you'd have to answer a quiz of six site canon questions and provide information similar to the current app.7
+
+A lot of people would complain about the writers immigrating from TvTropes, but it did boost site membership, and produced some great writers. It also created a large enough population to start some of the Foundation side projects, such as the RP's. Foundation interest in RP has existed since at least the beginning of the wiki. Going to older threads, it is possible to see Bihjan, Kain, and Unconfirmed Reptile making posts about organizing a Foundation based RP. However, it wasn't ever organized, and if it was organized it wasn't perpetuated. This changed in April, when Kondraki founded the first organized Foundation IRC RP as we know it today, Fieldwork.8
+
+Essentially, FW was supposed to be the place of misfits. [It] was Site 17, dangerous SCPs all over, and people were kind of loopy to keep from going insane. The site was kind of run in the "Director is unseen but felt, Bright is the head of the site, Kondraki is the Gestapo." All of the field agents and doctors had their quirks. It slowly went from "this is a dangerous site and everyone should be pants-shittingly terrified while trying to keep sane" into "there are some really talented fucking people here no wonder they were at this site"
+
+There were tough ass characters, there were non-combat characters, there were funny scenes, depressing scenes, and terrifying scenes. Runs would range from something kinda stupid to an outbreak of 008 in which the result was the nuclear strike of the infected area.
+
+It was pretty much /the/ place to be, but some people didn't like the way it was ending up because they weren't in the spotlight so much anymore (IMO, even though they kinda were), so they said "this is too dumb we want something more serious" and made Active Duty. Only AD was retardedly grimdark and not fun unless you were Bright, Yoric, or Waxx, or on occasion, Rights
+
+As it went on it did get a little bit sillier and very much less serious. There were blatantly stupid runs, most run by LBD. Dr. Syx (Lurker) and Dr. Rights were in a relationship despite being 9 kinds of illegal, but to be honest, the people who were playing most of the time were having fun, so it didn't matter. It may have been intended to be a super srs SCP RP, but it ended up being a fun kind of little slice of life thing
+
+Not to mention Gears ran the best fucking run ever, the barge thing, I can't remember what number. I don't remember it entirely because I unfortunately had shit to do, and couldn't participate, but I heard that it was a mix of terrifying, exciting, and thinking "oh my god is my character going to actually survive?"
+
+Really? The end came because of the fact that a large chunk of people jumped ship to AD left FW kind of barren, there weren't really enough people online at the same time to do much of anything - An Anonymous FW player
+
+I wasn't really particularly active in AD, but I effectively took charge of FW after AD started and players started moving there. There were a lot of self-insertions there - our characters were basically crafted from our personnel pages or ourselves if we didn't have personnel pagesand the Senior Staff stats were so very high above the regular players that they dominated play.
+
+What killed fieldwork was imbalance, the start of active duty. About the time that AD started and FW started declining, I took charge of the game, and I let LBD help me out. Worst decision ever - if there was a noose around the neck of the game to begin with, my appointing him as a GM pulled the lever of the trap door I suppose I could have saved it, but real life got in the way and that's when I essentially took off from all the SCP sites in general from then to now.
+
+It's simply a matter of activity - no one was interested in FW, especially now that the much more balanced AD was starting, and the only active FW GMs let it die - myself and the other admins due to neglect, LBD due to mismanagement - to be honest, no one really wanted to play FW. I guess it was more of a thing concerning LBD as a person as it was due to mismanagement; he wasn't particularly popular. - Fifthman
+
+With the popularity boom that allowed Fieldwork to exist came an increase in bad SCP entries, and a larger community in general. It was necessary that a better method of administrative communication be created. So, on May 1st, 2009, DrGears created 05command, which had lasted to this time of writing as the administrative site of the SCP Foundation. It was announced with this post, marked for "Mods/Admins".
+
+With the growth of the site…we really need a way to communicate as a administration staff. With that in mind, the link on the left now leads to the new Admin site. Currently just a forum, i plan on installing a Chat module, and [creating] project pages and other such things.
+
+If you are an admin or mod, please go visit and apply to join. Hopefully this will make communication go a bit easier.
+
+http://05command.wikidot.com/start - DrGears
+
+The efficiency of having an admin site to communicate immediately became apparent, as staff members were able to communicate on issues such as bans, promotions, and wiki policy very easily. One of the first actions taken with this new site was banning the user "Le Blue Dude", who had long been an irritant to staff members. For a period, staff had been indulging his behavior, since a lot of the time he'd been persecuted by other site members.
+
+As time went on though, it became more apparent that LBD was bringing it on himself. Many staff members postulated on this, but there was a small derailment in the thread when Fishmonger posted. His modship had been restored, after being previously revoked for site vandalism. As far as this author has seen, this is the only significant post Fishmonger made on 05command.
+
+When the thread returned to the intended topic, Waxx made this post that basically summed up the feeling for LBD by site members and moderators of the chat:
+
+I feel bad for the kid but he just doesn't seem to get it. Honestly, it's to the point where it's like we are dealing with a five year old.
+
+LBD, put your shoes on.
+"NO."
+LBD, PUT YOUR FUCKING SHOES ON WE ARE LEAVING.
+"I don't wanna, you are YELLING at me and I am FINE."
+
+I can't speak for what he's done on the wiki but I will say that from what I have seen in the chat, he is completely hopeless. A lost cause. Having dealt with many people like LBD in the past, I can say with certainty that it is easier to just remove him than trying to rehabilitate him or teach him anything. The effort is wasted on him, it goes in one ear and out the other. All of the chances to succeed that he's been given are completely meaningless to him, because in his mind he's never done a damned thing wrong.
+
+In my experience, when you have such a person it's best to just cut your losses and send them on their way. It's harsh, but ultimately it saves you from a lot of headaches. - Waxx
+
+LBD was banned from the wiki and from the chat, later evading the ban and being banned again. This was the first time someone had been banned using 05command, and it vastly streamlined the process. Soon though, other problems would arise with deletion.
+
+Since the decomm method had ended poorly, and the large number of poor articles was too big for it anyways, a new deletion policy was created. Previous to this, official policy had been to only delete entries with 8 downvotes and no upvotes. This had created the problem of people upvoting out of spite, or entries with a dozen downvotes for one upvote, as well as the issue where Kondraki had deleted every lowest rated article. The policy change came from DrClef, on May 20th 2009:
+
+Let's make it simple.
+
+-5: delete with approval of 3 mods and at least one admin.
+
+-10: delete with approval of 3 mods.
+
+-15: anyone can delete it. - DrClef
+
+05command also allowed for the first official, public promotion thread. On May 15th, 2009, DrRights and Ekzhentric Lohner were made into moderators, while DrBright was made into an admin. Other users considered for promotion at the time9 were pooryoric, Break_Eternal, and Heiden.10 These new staff members widened the administrative pool, making it so that we had enough staff to run the wiki without worrying whether or not it would die if 2 or 3 people left.
+
+By late June, things with Kondraki had come to a head. He'd taken it upon himself to edit the author pages, deleting the content that he considered to be less than satisfactory. This act, combined with his previous juvenile behavior, resulted in the decision to remove him from administrative authority and ban him for 24 hours.11
+
+One of the primary advocates for his removal was the former co-writer DrClef, who had grown tired of his infantile behavior and the aforementioned abuses of admin power. Other staff members who had been sympathetic to Kondraki would soon be swayed by Kondraki's repeated antics. On June 24th, the final decision was made, to remove Kondraki from his administrative position. The following note was penned by DrGears to Kondraki:
+
+Kondraki,
+
+As of today, you are no longer an admin or mod of the SCP Foundation Wiki. No revocation or appeals on this reduction in rights will be heard for a period of no less then three months, at which time you may request a review, which will be based on your behavior during this time. If you wish to discuss the particulars of this decision, please reply to me with your questions.
+
+I truly regret having to do this, however your cycles between good admin/rogue admin are at a point where they can no longer be ignored. I have no doubt whatsoever that your actions are almost always geared toward the greater good of the site, however your tactics are often deplorable and immature. During the last incident, you were told that this was your last "Last Chance", and that further rogue action would end with this outcome. Reviewing the log of your review and editing of the member pages, i am forced to judge that Last Chance violated.
+
+I would hope that you stay on with the site as a user, and prove that you are capable of acting in a calm, mature, and rational fashion for a sustained period of time. This was a decision i had hoped i would not have to make, Kondraki.
+
+With regrets,
+
+Dr. Gears
+
+He was a fun guy. A good writer, pretty funny, spun a good game of DnD. Genuinely cared about the site and was a good friend. But was a lot more of a hardass than Bright, and he took it MUCH further than he did too. There were periods when he was fine, and then there were periods when he wasn't. He particularly hated furries, or at least the really vocal annoying ones. But as time went on, the crazy vendettas got worse, and his periods of angry vehemence got longer. Eventually, it got so bad that he basically chased a bad user to other places on the net and started harassing them there, and that was where we had to call the line. He still comes back occasionally, but his visits tend to be very dependent on his moods. - Kain Pathos Crow
+
+A flurry of activity would follow in the days after Kondraki left. In August, WikiDot implemented a new toolbar in the top of the site, which had links to social network sites, a shortcut to the "join site" page, and a logo. It was seen as an ugly and unnecessary addition, and many site users wished to remove it. However, only the Master Admin of the site would be able to remove it, and since FritzWillie/The Administrator had disappeared, staff had to message WikiDot to change it.
+
+Oh, the MA switch….man, that was ages ago…
+
+Ok, what lead up to the change over was when Wikidot started including the little toolbar doo-dad on top of the site. Everyone felt it was really distracting and jarring, but the only way to get rid of it was to upgrade to a pro account of some type. Now, the only way for this to work was for the actual site owner to do that, and we hadn't heard from The Administrator in quite some time. We tried to contact him a few times via PM, but didn't get any reply, so…we waited. And waited.
+
+So that went on a while, and finally we decided to just try and get hold of wikidot directly. Which was pretty easy to do, I just PMed one of the higher-ups and got a response quickly. They messaged him, got no response…and transferred ownership over to me. I think we may have had one or two messages from him since them, but he is either gone, or lurking hard.
+
+Incidentally, i had to transfer ownership to Mann for similar reasons. The pro account ran out, and he was able to pay for it, which i was not. So, we shifted it over to him. - DrGears
+
+When this action was being debated, FritzWillie used the "The Administrator" account to post a response. This is the last message ever received from him:
+
+Dr. Gears,
+
+I owe you and the other Admins a huge apology for seemingly abandoning my position on the site. I love the SCP world and only had its best interest in mind by moving hosting to wikidot. Unfortunately the real world has been more demanding of my time than I have to enjoy this fiction.
+
+The good news is that I'm now the proud father of a healthy baby boy. The bad news is that my wife has lost her job and I'm working twice as hard as ever to support my new family.
+
+I'm glad that the site has continued to expand without me and I will set up a pro account this week as you've requested, I owe the rest of you that much. I will peek in from time to time to enjoy myself, but I leave the daily administration in your capable hands.
+
+Thank you,
+The Administrator
+
+There had been a backlash against silly building ever since LOLFoundation had started, and with Kondraki's fall it was catalyzed. There was a massive backlash against the silly, carefree tone of the earlier site. People were tired of silly, and wanted to return to a more serious tone. This was encouraged by staff members such as DrBright, Heiden, A Fat Ghost, and PoorYoric, who welcomed this change and were quick to embrace it.
+
+This backlash against the silly began to gain more and more momentum, and by July it had become the new law of the land. Nothing better demonstrates the move to a more serious Foundation then Active Duty, the second SCP RP. Founded by DrBright and Heiden, Active Duty was about Foundation Personnel stationed at Site 23, which was located in the Australian outback. After it started, the membership quickly boomed, taking most of Fieldwork's players and newfolk alike.
+
+Active Duty was the genesis of a huge portion of site canon, with concepts like Lombardi, Tamlin House, and some people's concept of Overwatch Command originating from here. it quickly became so popular that the lines between what was RP canon and what was site canon began to blur. Articles which originated from Active Duty were put on the site, using the SCP-XXX-R designation. It had a massive community, more than any other SCP RP, and was marked by several over-arching plots, mostly perpetuated by Bright. One of them was the one in Kens's image, which involved the research director being pregnant with a baby that was also time and then Janus was zombie.12
+
+Active Duty's influence on SCP canon and culture cannot be understated. It was the final nail in the coffin for LOLFoundation, and solidified the serious canon. It's where numerous influential community members such as EchoFourDelta, DrEverettMann, DrBright, Heiden and Sophia Light garnered much of their personal canon and interest in the wiki, and where the community basis for almost every Foundation RP since has come from.
+
+However, not all staff members were comfortable with this new setting. Many of the early site members preferred a wiki more suited to their prior experiences of fun. When this was combined with personal problems, many of the wiki's old guard would leave for a prolonged period of time, in some cases for good. The loss of old talent only exacerbated the bad SCP influx issue, which was quickly becoming too severe to ignore.
+
+The problem of too many shoddy entries still was not completely solved, even with Clef's suggestion. There were simply too many hovering at -2 or -3 that nobody was able to move one way or the other. The idea of a big SCP review was brought up again, and on September 4th, 2009, the Mass Edit began. Creation of new SCP articles was locked down so that the review wouldn't suffer the same fate as the last one.
+
+The Mass Edit was the major attempt to delete poor entries after the decommissioning idea fell out of favor. The idea was to review every entry on the wiki and decide which could stay and which would be deleted. Every member on the wiki would be able to get their vote, and it lasted from 6 Sep 2009 to 6 Dec 2009. The result of the Mass Edit was the deletion of a significant number of entries, and a boost in wiki quality.
+
+The Mass Edit was performed by having staff members comb through every entry in one block (i.e. 001-099, 100-199, etc.), and placing entries up for review. There was a time limit in which volunteers could edit or rewrite the article, after which it could be saved or deleted, depending on the response. This was done manually for each entry, and as one can imagine, it took ages to get any of them done.
+
+It wasn't just SCP articles which were affected by the Mass Edit. Almost every -J article was deleted, with the exception of SCP-014-J, SCP-4444-J, SCP-4445-J, SCP-1344-J, and a few others. If you've ever heard of the "old times" where the -J articles were all bad pop culture references, this is the time where all those got deleted. -J entries had also been on the main list at this time, and the remaining entry was removed after the rest were deleted, and put with the -J section. A repository of what the main SCP list looked like prior to the Mass Edit can be found on the SCP Classic wiki.
+
+The effects of the Mass Edit cannot be understated. We gained a much more concise and better written wiki, with a clear and strong goal of quality control. With the stagnant entries deleted, staff was better able to regulate the content coming onto the wiki. Without the Mass Edit, the SCP Wiki may have gone the way of the holder series, doomed from low quality control and endless, repetitive entries.
+
+However, not everybody was happy with the results. There were many people who had every contribution they'd made on the wiki deleted, and some who hadn't gotten the opportunity to save their entries because of time constraints. Some entries that were well liked got deleted for being dumb/not making sense. However, entries like that were in the minority. Most deleted entries were of extremely low quality.
+
+In November 2009, Pair of Ducks stepped down and allowed Clef to become the new owner. In addition to this, Clef and Bright promoted MrUnimport to moderation on November 12th. With this change would come new policy, and the final removal of one old member. DrKondraki had continued to reside in the IRC and on the wiki, despite the loss of his administrative powers. On November 15th, DrBright brought this issue up on 05command:
+
+There's a user, Tybernius_ty, something. Furry. Admitted it in chat.
+
+Kondraki stalked said kid to second life, found out his specific, and then preceded to trash on him in chat until the kid left.
+
+What had occurred was Kondraki finding the user's SecondLife profile, along with some embarrassing identification information. Site administration agreed that this was an extremely immature action, and moved to discipline him for it. However, Kondraki's behavior directly following the incident resulted in a permanent ban. Kondraki would then self-exile himself from the SCP Wiki, and we would not see him again for a long, long time.
+
+The wiki moving into 2010 was very different from the one we'd come into during 2009. We'd taken on a much darker tone, and had a much larger user-base. Staff had shown they could knuckle down and work, and effectively administrate the community. We'd removed the stagnant level of the older leadership, and took ourselves more seriously.
+
+The beginning of 2010 was a very different time from the beginning of 2009. We were moving with a very different site tone, and a very different moderation/administrative team, with much more stringent protocols for membership and deletion. All in all, it was a much tighter ship than the one we started out with. However, that ship would be rocked by a massive blow to the canon that occurred very early in the year.
+
+January of 2010 started out as a fairly laid-back affair, with most people either scratching their heads about things that were deleted in the Mass Edit or working on various projects. One of these projects was DrGears' attempt to improve the quality of /x/, which was looked on by him as a "fatherland" of the SCP Wiki. Between January 13th and 16th, he had attempted to organize a small section of SCP users to post content to it. It was an unsuccessful but fun experiment which only served to strengthen the community.
+
+At the end of January is when we got something new to the community: the first contest. The great short story contest, started by Rights on January 28th, 2010, had the original theme of the Post-SCPocalypse. As time went on, additional themes would be added, such as SCP's at war, the death of Alto Clef, and Rights' birthday. These contests were quite popular, and helped build up the Library area.1
+
+In early February, another consequence of the Mass Edit had to be dealt with. The Mass Edit had deleted a fair number of SCP articles, and many people who had members pages had been reduced to having fewer than the requisite 3 articles. One of the newer staff members, Quikngruvn, led a clean-up process wherein staff members would delete the members pages without any articles.
+
+However, that would be overshadowed by other events taking place in early February. On February 9th, 2010, Fishmonger posted a story, which senior staff member pooryoric downvoted, due to it not fitting with his view of the site. Fish responded with an angry, acidic comment, where he insulted yoric and his girlfriend (Crack Lobster) both on the wiki and in #site19.
+
+In response to this, and other acerbic comments made afterwards to other members of staff attempting to intervene, Fish was permanently stripped of his moderation powers and given a six week temporary ban from both the chat and site. The only reason he wasn't permanently banned from the wiki was his writing history and the demand for his work by people both on and off the wiki. The action is summed up by DrGears here:
+
+I appear to be late to the party here, and for that I apologize. Let me catch up as quickly as I can…
+
+Fish is a fowl-mouthed, wretched, petty man who breathes cruelty and shits suffering. That being said, he is one of the best writers we have, and therefore we have dealt with this rubbish continuously for some time. Much like a atomic scientist who insists on having hookers for assistants, we have complied with his eccentricities due to the demand for his work.
+
+However, this has gotten out of hand. Kondraki was slapped for less then this, and at least pretended to be contrite at times. Fishmonger seems to be under the impression that his body of work exempts him from any and all rules, but that is just not so. Yes, his work is good…but this is not the old days. The talent pool has deepened, and like Kondraki, Fishmonger is not as vital for our existence as he used to be.
+
+I support the proposed actions, even knowing that Fish will most likely not come back, or not change in the slightest. It pains me to see this happen, but this has been in the wings for ages. Fish has had ample time to change or at least prepare. He may be under the impression that he is vital to us, but nothing he can do for this site excuses this nonsense. Throw the book at him, if he barks, tell him to come to me.
+
+Again, please forgive me the lateness on joining this topic. - DrGears
+
+Fishmonger would be absent in the month of February, when the first dedicated sandbox wiki was created. The old sandbox system had fallen out of use, given that creating individual sandboxes for every user would flood the wiki. So on February 19th, 2010, pooryoric created the SCP sandbox website. It quickly replaced any other resource, such as Pastebin or old site sandboxes, and became the principal drafting ground for articles.
+
+After the six weeks, Fish returned, and appeared to be intent on behaving. His behavior would not cause any trouble for a period following his ban. Many members of the wiki were inclined to be lenient towards Fishmonger because of this, especially members of the older guard that had seen him rise up through the years, following his stories and how his works affected site canon as a whole. Fishmonger portrayed his character as an all powerful man within the Foundation, pulling all the strings from behind the scenes. In addition, his characters were widely used in many of the wiki's major works.
+
+However, the issue of The Fishmonger was temporarily abated, and March of 2010 was dedicated to smaller discussions of wiki canon. In a thread which started in early February, but continued well into March, there was discussion on how Mobile Task Forces operated within the Foundation. There was no centralized page to catalogue how MTF's worked, and people used them in a variety of ways. Some would use them as soldiers in the field, containing SCP's, others claimed they would only guard Sites, and then another group treated them as a military element within the Foundation.
+
+There was also discussion on the K-events, which started in March and continued into April. Fishmonger had compiled a list of different -K events and how they were used on the site. A large number were used by him in his various stories, examples of which can be found in this thread. There was debate on whether K events were strictly religious, or simply denominated anomalous apocalyptic events.
+
+DrGears, one of the more prolific writers on the site, had begun slowing down at this point. This was primarily due to his free time being taken by his three kids and (at the time) searching for a new home. His activity by April 2010, while infrequent, was not to the same degree as other absentee staff members (i.e Kulzn, The Administrator / FritzWillie) but it did mean that some staff members stepped in to take Gears's responsibilities while he was busy.
+
+April marked the beginning of one SCP sister site, the Wanderer's Library. Created by DrEverettMann and Pair of Ducks, it was designed to be a writing site based on the Serpent's Hand. Pair of Ducks said he wished to inspire more of a "sense of wonder" than the horror works put up on the SCP Wiki. It received an initial splurge of users, then settled into a low level of activity. Recently, activity there has increased. It can be found here: http://wanderers-library.wikidot.com.
+
+On April 30th, Fishmonger returned, and he resumed posting stories on the Wiki. Many people hoped that the extended ban, and the revocation of his mod powers would curb his behavior. Fishmonger himself claimed to be ignorant of having been banned, saying that he had been taking an extended trip away from the Wiki. Whatever the case may have been, he was starting off with a fresh leaf and hope of improved behavior.
+
+By the end of May, however, this hope had left. Fishmonger made a post claiming that he'd authored an SCP under another name "as an experiment." The SCP in question was the former SCP-877. The author of the page was authored by an account named "Sinclair", which had only ever created the article in question and nothing else. This was seen to be an act of sockpuppeting, and worthy of a ban.
+
+There was some debate on whether or not it was a joke, or if Sinclair had been a sockpuppet at all, but it was generally agreed that this was to be the last straw. But, due to the fact that there had been no official rule against sockpuppeting prior to this, they were hesitant to ban him for it. But it was soon apparent that Fish's cavalier attitude was becoming too much to overlook. Fishmonger would call out members of staff who tried to discipline him, because he was aware of how loath they were to remove him once and for all.
+
+So, on June 1st, 2010, Clef permanently banned Fishmonger from the SCP wiki, due to his impersonation of another user. This post was made on the discussion page of the now-deleted SCP-877, where the sockpuppet debate had been occurring:
+
+You know what? You people are seeing this in completely the wrong light. This isn't a sockpuppet issue. This is a trolling issue. Fishmonger has, by his own admission, created a false account and made an SCP article under false pretenses in order to elicit an emotional response from other users. When called out on this, he is behaving in an arrogant and rude manner towards the site staff.
+
+If Sinclair is NOT his sockpuppet, then he is falsely claiming to be another user, and that's trolling too.
+
+Finally, a personal judgement: Fishmonger, despite your admitted skill in writing, you have a long history of causing friction with other users with your arrogant attitude, and have made no effort to change that behavior at all. Honestly, no matter how good your writing is, it's not worth putting up with your dramatics.
+
+Under my current authority is an SCP site admin, I am permanently banning you from this wiki, as well as your alleged sockpuppet, Sinclair. You may choose to appeal this ban on the site chat. - DrClef
+
+There wasn't much dissent among staff, even with people who had liked Fishmonger. He'd simply become too much of a burden to the Wiki due to his consistently awful behavior and casual disrespect for staff authority and the wiki rules. Although there was some disagreement on the site as to whether or not the ban was viable, it was hoped that the wiki would be able to move on from Fish.
+
+But on June 2nd, 2010, Fishmonger responded to his ban. His message threatened to take legal action against the wiki unless every one of his works, and everything that had referenced it, was taken down immediately. The message also contained the threat to sue the wiki unless these works were removed. The lawyer was an actual lawyer, although it is not known whether or not Fish was a real client. His message is as follows:
+
+Subject: Re: Ban.
+
+Since the decision has been made that having my writing is "not worth putting up with my dramatics", then you shall have neither. Effective immediately, I formally request that all original material I have submitted to the SCP Foundation wiki be permanently removed.
+
+If this material is not removed within two weeks, I will not contact you further; legal summons will be sent via my lawyer, Donald B. Spear, to Wikidot and their hosting server, GoDaddy, pursuant to Section 512 to Title 17 of the United States Code. - Fishmonger
+
+The Wiki had maintained2 a policy of deleting works on author requests. So while the nature of Fishmonger's request has dubious legality, since the wiki uses the creative commons license, defying it would've still caused legal problems with Fishmonger's attempt to file a suit. It was also seen as playing into Fishmongers hands:
+
+Also, you KNOW he wants us to be like "nooooooo" - Pair of Ducks
+
+Attempts were made to dissuade Fishmonger from his course of action, with the rationale that the only person he was hurting was the wiki. DrGears attempted to mediate with Fishmonger after learning of his actions. This exchange of messages followed:
+
+in this case, your sincere doubt is misplaced. Fish, you and I both know you can be a egotistical ass. You have admitted to this several times. The last that I knew, you were staying somewhat removed from the comment and discussion section of things, and just producing work. This seemed to be working…and then this blew up. I'm just trying to put together the pieces and understand this blow-up from each side. If you'd rather not cooperate in this, I guess I'll just have to deal with it.
+
+Now, as for the revocation of your work: we will do this Fish, but let me be the first to say that this looks exceedingly petty. Still, if you want to take a "taking my toys and going home" stance, we will do all we can to accommodate. We will begin immediate removal of all content that is identified as "your work", and will hopefully have all entries removed in a timely fashion. If you do decide to retain legal counsel, I would ask that you inform me of this action so that we may do the same.
+
+Fishmonger, I'd ask that you not do this. It hurts nobody but the general public of the site, but I can not make you do anything you don't wish to do. I am exceptionally sad to see you go like this, and disappointed at the course of action you've decided to take, but if your mind is made up, we will adapt.
+
+Sincerest regrets,
+
+Dr. Gears
+
+Fishmonger responded thus:
+
+It was the decision of your administration, specifically Clef, that I have nothing more to do with the site. Okay, fine. I'm accepting that. But with decisions come consequences. The consequence of this decision is that I will have nothing more to do with the site, as requested. That includes all my material presently available, which is my property to do with as I decide and which I have a perfectly legal right to control.
+
+You want to talk about "petty"? Okay. Let's talk about how nothing wrong was done here, how no rules were broken, and how the only reason I even bothered to tell anyone about this was to more rapidly facilitate the deletion of a page nobody liked. Let's talk about how Clef has had it out for me from Day One, and has been looking for any excuse he can to get rid of me, just like he did with Kondraki. Believe me, pal, I can do "petty", and this ain't it.
+
+Don't take the moral high ground with me, and don't insult my intelligence. You've always been perfectly happy to play the Good Cop to Clef's Bad Cop. Okay, that's fine, too. What would my cooperation achieve in this matter, exactly? Reinstatement on a site that has always considered me a threat to its mole-hill authority, and will only look all the harder for a valid reason to remove me again? There's no satisfaction to be had here from either party; you'd have to at least revoke Clef's admin privileges for me to even begin to look at a diplomatic solution. You willing to do that?
+
+No, you're not, and we both know it. You know as well as I do that there's no common ground to be had here. If diplomacy had any chance of working it would have resolved such issues far before now. Now, Clef has chosen extremes. Okay, if that's what's written, then that's what's written. But don't sit there and feign surprise that I'm going to react to it in an extreme manner myself. I'm offended that you would even consider such a laughably transparent ploy.
+
+The decisions have always been made by you. Now it's time to make another decision: specifically, whether or not facilitating a clean break with me will require the removal of your site to the misery and scorn of hundreds of people. You wanted to wear the big girl pants. Don't whine now that it's time to grow up. - Fishmonger
+
+Gears authored one last reply to Fish.
+
+…Fishmonger, I'm sorry you've decided to feel this way. The site as always been very receptive to your submissions, and has given you little but praise and encouragement for them. It is your vile, profane, and abrasive personality that has been one of the few negative points against you. However, it's always been a pretty big point.
+
+It seems you've decided to lay down the truth for me, and dissolve my illusions of both my position and yours. Let me do the same: you are a prima donna and a diva. In the beginning we needed your voice, your genius, and could forgive and overlook your increasingly insane and combative behavior. Now, however, we've outgrown you, your tantrums, and your "fuck y'all!" attitude. Did you not see the writing on the wall during the whole kondraki mess? did you not think that maybe, just maybe, going around shouting "I'm so awesome nobody can touch me!" might eventually backfire?
+
+You're welcome to speak on things done wrong, and misuse of power, but before you pick up the holy banner of the Wronged, look to yourself a bit first. Tell me, in perfect honesty, you didn't misuse power. That you never treated anybody with anything less then a fair and even tone. We are removing your work as a favor, in consideration of your work with the site in the past. If we wanted to be dicks, we could be. You are not a martyr Fish, you're a jerk.
+
+Also, I have to laugh when you talk about growing up. You're basically saying "you guys are MEAN, I'm taking MY toy and going HOME!". What is the point of it, even? Going to go and publish it? Some sweet movie deal? You're doing this from spite, pure and simple. As for misery and scorn…I think we'll do alright without you, honestly. We're a community, Fish, not an audience here to masturbate your ego.
+
+Forgive me if I've gotten overly dramatic during this, but you've really ticked me off Fish. This only hurts your fans, Fish, nobody else. Not me, not Clef, not the site, nobody. It will be hard to get along without you, but I assure you, with total certainty, that we will. We'll have most everything down by Monday, I hope, and then you are more then welcome to retire with your work and do…whatever it is you're going to do. I hope you find a more accommodating site Fish, i honestly do, but i pray you never do this kind of thing to anyone again. I'll be in touch regrading the deletion process.
+
+Dr. Gears
+
+So let me get this straight: Clef abusing his provisional site power and banning me over a non-violation of non-existing rules, that's just doing your job. But me exercising actual legal rights over my literary property — that's throwing a tantrum.
+
+You're not very good at this "grown up" game, Gears.
+
+I've never made any bones about being a surly asshole. You ever known anyone who takes medicinal marijuana? It works because getting high feels good. Pleasure counteracts pain. I'm not a nice person. That's why I write: to make something intensely beautiful to counteract the intense ugliness. You don't get one without the other, and *I* don't get one without the other. It's a package deal, for better or worse.
+
+You can judge all that however you like; I'm not looking for sympathy or understanding. Your opinion of me is quite clear, and likely unmovable. That's not my concern; I've been insulted by professionals, and I don't see anything you're capable of offering doing me even superfluous damage. Similarly, whether your site survives or not is irrelevant to me. This is a matter of removing connections, nothing more. You don't want anything more to do with me; how dare you feign surprise when I express the same? Do you honestly think I'd want to be associated with you now, after all this? Have you so thoroughly deluded yourself into thinking you're doing me a privilege to allow my work to remain, but not my person?
+
+Again, your administration made this decision. Again, these are the consequences of that decision. Now get to work. - Fishmonger
+
+The stress of the Fishmonger incident had been weighing heavily on the site administration, and on June 2nd DrClef left his administrative position. Dealing with the Fishmongers antics was just too much aggravation and stress. He did not leave the wiki completely, however, remaining on site as a member of senior staff. Due to the surplus of inactive admins, nobody was promoted to fill his slot. The rest of the administrative team was left to deal with Fish.
+
+Also, banning Fish was the last thing I did as an Administrator. I was sick and tired of the burden, tired of trying to herd cats, and I'd just… had enough. Admittedly the reasons for banning Fish were sketchy at best, but that little "Sinclair" stunt was . . . one straw too many on the dromedary's back. If anyone else had done that, then they would have gotten off with a reprimand, but Fish was basically openly going after all the admins. - DrClef
+
+Fishmonger's works were deleted. Every story, SCP, and reference Fishmonger had ever created was deleted. The notable works include Wanderlust, Castling, the stories involving the Black Queen, any story involving the former GOI "foo", SCP-228, and SCP-808. Every reference to every one of these works was expunged from the wiki, leaving a noticeably large hole in the site canon. If you want an example, imagine every reference to Dr. Gears or Dr. Clef was removed in the middle of 2010, and then nobody on the wiki was ever allowed to write stories about them again.
+
+This decision basically killed any support Fishmonger had among the user base. While previously he could have portrayed himself as a martyr wronged by staff, he was now seen as a petty man, who took his toys and went home instead of seeing he had a problem. There was a lot of anger, and fear of how the wiki would continue with such a large portion of its works removed.
+
+But there was a resolute determination to keep going. There was an expectation to fall after Fishmonger and his epic stories left, but this was surpassed by the loyal core base. People wanted to show they could go on without Fishmonger, that we didn't depend on the works of a single user. With hindsight, it seems inevitable that we would move on, but at the time things were rocky. By June 4th, all references to Fishmonger on the wiki had been removed. Things were moving on towards an uncertain future, but future months would show that the community could bounce back.
+
+Well, to me he was always a nice guy. I only ever got second hand reports of his misadventures, and to be honest, I've always liked the guy. That said, I also know for a fact he had one hell of a temper, a foul mouth, and was spiteful as all get out. He also hated Clef and Yoric, and could never get along with them. Even in the IRC, when one would show up, the other would leave, because they'd start getting into an argument and that'd be the end of it.
+
+There was something that Crack Lobster once said on one of his articles, basically saying it wasn't that good, and Fish cursed her out of it, accusing her sock puppeting her boyfriends (Yoric) views on the article and on fish himself. the pair of them rebuffed him, saying it was her own choice and that Fish was an over-reactive asshole.
+
+His editing of other peoples pages isn't something I remember, but what I do remember is that the final straw was that he was posting and writing underneath another name on the wiki. Yoric jumped on that, saying he was impersonating another member or something, I can't quite remember, but all in all, it was bad. Everyone else went with that, but Fish exploded at it, and his reaction was pretty vicious, and THAT was what finally turned the last people against him. In the end, for me, it was like putting down old Yeller.
+
+But the worst part was when he was banned. Like I said, he was pretty goddamn spiteful, and he threatened legal action if we didn't remove all of his writing from the wiki. It was more an act of spite than an real threat, and considering the legal parameters surrounding the site, it probably wouldn't have help up in court, but we did so anyway out of our own sense of integrity. I was never more disappointed in him than I was then. - Kain Pathos Crow
+
+The Fishmonger debacle had a massive impact on wiki culture. Many attitudes on the Wiki, such as the "You don't have to be nice if you make good work"3 perished. Rules were enacted against sockpuppeting, and excessive rudeness to other users. The site shifted away from a large, unified culture, and steered closer to the "there is no canon" mindset of today. It also marks the beginning of "The Age of Bright." With Clef stepping down, it left Bright alone as the sole active administrator. This would continue for the rest of 2010, and well into 2011.
+
+The rest of June was less dramatic, compared to what had happened in the first week. There were a few people banned from the chat, which was now owned by the newly minted administrator Waxx, and a few minor issues on the wiki, but nothing major. It was an almost weird calm, after all that had happened in just a few days. People were just picking up the pieces.
+
+On June 20th, the first alternate language translation project appeared. SCP Foundation RU was founded to translate SCP articles into Russian.
+
+Lt Masipag re-appeared briefly on July 6th, 2010, shortly after her moderation powers had been revoked for inactivity. She stuck around for a few days, made two posts, then vanished into the ether again. She may or may not be lurking, but that cannot be confirmed at this time.4
+
+August would be an interesting month, which would shape the canon of the wiki in large ways. A user named Dr. Wilson made a post asking about a Foundation "Ethics Committee", based on their treatment of D-Class and attitude towards human life as a whole. The post was initially met with condescension, but users soon began to contemplate the ethical ramifications of the Foundation's activity. It culminated in a post made by Voct:
+
+"How many people did I just kill?"
+
+"How many did you just save? You're a smart man. Do the math. It'll help you sleep."
+
+— Hank McCoy and Steve Rogers, Secret Avengers #16
+
+The Foundation Ethics Committee is often thought of as an ineffectual rubberstamp laughingstock, a bunch of seat-fillers. And they go to quite some lengths to sustain that impression. The Ethics Committee is actually the secret power within the Foundation. The O5s decide what is and is not safe, but the members of the Ethics Committee are the ones who advise the O5s about what is and is not acceptable.
+
+(If it ever occurs to you to wonder who's really in control, the Overseers or the Ethics Committee, then presumably you're smart enough to keep your mouth shut.)
+
+The members of the Ethics Committee do a terrible job - and that's "terrible" as in "terrible swift sword". They are the ones who balance the moral costs of everything the Foundation does — and in order to balance the costs, they must first know the costs. Every detail that gets redacted or expunged or blackboxed, they know it. They know what SCP-447-2 does when it comes in contact with dead bodies. They know what Procedure 110-Montauk is. They should — they designed it.
+
+Remember: the Foundation does not rule the world. The Foundation serves the world. Regardless of what the general population may think it wants, the Foundation's actions are in that general population's best interests.
+
+Remember: the Foundation is not evil. We do not torture people "just because". We are against unnecessary cruelty; the members of the Ethics Committee are the ones who decide when cruelty is necessary. To serve the greater good, you must be able to quantify and compare distinct goods. This is what the Ethics Committee does.
+
+Remember: the 'P' stands for 'Protect'. The Ethics Committee judges what is and is not acceptable, balancing evils so that on the whole, and in the end, evil is minimized.
+
+"I did the right thing, didn't I? It all worked out in the end?"
+"'In the end'? Nothing ends, Adrian. Nothing ever ends."
+
+—Adrian Veidt and Jon Osterman, Watchmen #12
+
+If there was irrefutable proof that the only way to save humanity was by eliminating the Foundation, the Ethics Committee would advocate that this be done, and begin implementing plans to make it happen.
+
+"You want happy endings? Fuck you. You're alive to read it."
+
+—black white black white black white black white black white gray
+
+- Voct
+
+Another event in August was promotion, DrMann becoming a moderator, and TheRaven being promoted to senior staff along with Burns. At the same time, Ekzhentric Lohner and Rights were placed from moderation down to senior staff, primarily for inactivity.
+
+On September 20th, 2010, DrClef began his rewrite of SCP-076 (Able). This had been one of the most controversial entries on the list, with detractors calling it a Mary-Sue, and supporters claiming it was a legitimate entry. It was where MTF-Omega-7 originated, a team of SCP's being used by the Foundation for various purposes. A variety of humanoid articles were added to it, with the only one remaining today being SCP-105.
+
+We had too many Mary Sues joining Omega 7. Omega 7 itself didn't fit the site culture any more. Able was fine. MTF Omega 7 had to go. So I killed them all. It's honestly that simple. I recall Kain was fine with the change. There was a lot of discussion about taking away Able's spirit knife powers and such, but I tried not to. Just to keep the feel of the old article, only change how the Foundation reacts to him. - DrClef
+
+By the end of the year, staff had gotten back on their feet and begun discussing new issues with the site. On November 30th, pooryoric noted that the rating modules had begun malfunctioning. Ratings would be inconsistent between the page display and the actual display under "Look Who Rated this Page" area. Although the issue was quickly fixed, it was the first time we saw WikiDot's instability as a platform.
+
+Late December, specifically December 24th, was marked by the creation of new policy related to voting, a revised and improved set of deletion guidelines. Sophia Light made a post pointing out that entries could be deleted prior to the author receiving good feedback, since all it needed was 4 votes after it went low enough. Therefore, it was proposed that a 24 hour grace period be imposed, so the author could get as much feedback as possible. It was approved unanimously.
+
+So, as the wiki moved into 2011, things were definitely changing fast. Rapidly evolving policy, membership, and staff roster had rocked the stability of the community, but it still held up steadfast. Bright would be very influential in the coming days, with the advent of Bright's rise and another boom in membership.
+
+2011 can be defined as a period where the wiki grew up. We'd had enough time to build up a more experienced community of writers, who could be counted on to produce quality content. We had a disorganized and weaker administrative team, with one strong admin amongst a group of weaker or absentee administrators. Kain Pathos Crow, Gears, snorlison, Pair of Ducks, and Waxx had all but divorced themselves from wiki affairs.
+
+Bright was the most influential person on the wiki, being one of the few active administrators able to effectively run things. In many of the January 2011 forum posts, he is the first one to say anything, often being a voice of dissent. In one thread proposing the creation of a "minutes of a Foundation meeting" story, he posted "This is not a roleplaying site, which is basically what you are suggesting. As an Admin, my vote is not to do this thing."
+
+The issue of deletion had long been a difficult one. Staff members were always hounded by deletion policy, with events like the Mass Edit being the direct result. But by January 2011, we faced the opposite problem. Our deletion process had become too efficient, with entries being deleted as soon as they hit -5. Authors were not able to get feedback on their articles, and it was becoming problematic.
+
+On 05 command, Sophia Light proposed a new system: Instead of carrying out deletion as soon as possible, there would be a 24 hour grace period. In addition, four staff votes would be required for deletion, with the person carrying out the deletion not being the one who finished the vote for it. The memory of deletion-crazed staff was not far behind in their memory, and caution had to be taken.
+
+While a minor issue at the time, this decision has come to be a major policy issue regarding rewrites and ownership. In this case, it was decided that rewrites could be reverted if it no longer showed the quality of the original work, even if the original author had created the rewrite. The effects of this decision will be elaborated on later in this essay.
+
+There were a lot of new staff issues that would be coming up in the next few months, and a new generation of senior staffers was necessary. On March 5th, 2011, Bright promoted TroyL and Dexanote to senior staff, and promoted pooryoric to moderation.
+
+The work of the new staff started quickly. Instituting the modern application system began on March 10th, when DrBright proposed disabling all applications and making the site free to join. This was due to a postulation that the application didn't do enough to stop undesirables from gaining access to the wiki. Within a day, six awful entries had been posted by new authors. While this doesn't seem like much today, it was pretty severe for the time.
+
+So within days we've been crapflooded. Three deletions in 24 hours of some of the most terrible writing I've seen around here in ages, with another three more in the tubes waiting for the flush, all posted by newbie authors within eleven hours of joining the site. You may consider this my official "crawling on my knees begging for a restored application process" post. - pooryoric
+
+The severity of the influx caused many staff members to consider removing the 24 hour grace period, with DrBright, pooryoric, TheRaven, TroyL, Metaphorphosis, Light, and Quikngruvn agreeing to it. However, not everyone posting on 05command agreed. User SophosBlitz posted against removing the grace period.
+
+Maybe just open them up for deletion votes when they get too low? The way I see it, if they're just immediately/automatically deleted once they hit the lower bound, it'll be hard to keep track of the new content coming in and out even if you check the wiki daily.
+
+Plus, given the size of the userbase and active voters on the wiki+chat, the "delete after this value" policy would just circumvent the reasons the whole 24-hour grace period was implemented in the first place. It just moves from -5 to -15 or -20 or negative whatever, and when the size of the active userbase goes up, the lower bound will have to be lowered to accomodate for the voting trends, etc.
+
+The bad SCPs are bad but it's not like they'll slip through the cracks and stay around for too long, but it's not like you can expect every new addition of content to be good. Part of what a creative writing community does is offer criticism and let people understand how they can improve before throwing something into the trash. I think if they're up for display as "This is how you do it wrong" for at least a defined (albeit short) period, it'll help the general userbase figure out what's bad and what's not and shift the general trend of new SCPs away from the bad. I'm not Senior Staff so…ignore this if you want.
+
+Edit: I also think 3 bad SCPs in the first couple of days of a trial period is an overreaction. - SophosBlitz
+
+DrBright supported him with this post:
+
+All right, laying this down here. The reason we have a 24 hour grace period is so a user can see what they did wrong. Unless an SCP is an obvious trolling attempt, such as the racist beans, no matter how low it gets in that 24 hour period, DO NOT DELETE it until that point. There is NO harm to leaving it up the full 24 hours. This is about people knowing what they fucked up, so they can do better next time - DrBright
+
+There were also changes to the chat during this month, when Clef decided to step down as chat owner. In the chat, he gave owner to a user named Malachai, and told them to choose who the new owner would be. While it came close to being Mann, it was decided that Waxx would become the new owner.
+
+Later in the month, Waxx created SCP Minecraft. This was really the first link between gaming and the Foundation. Previously, there had been the CYOA game and Bijhan attempting to make an FPS, but these had not amounted to anything. This became a social area for wiki members. DrGears, DrKens, Bright, and TheRaven were staff members who played. It lasted for a short while, but created the first prolonged interest in SCP Community members gaming together. Currently, a different Minecraft server for Foundation members exists, as well as an off-site Minecraft mod using some SCP articles as the basis for the models.
+
+April was another time for promotions to go down. Bright promoted Sorts to senior staff on April 2nd. This was well received, and was seen as an "about time" type of action. On the 15th, DrMann and DrLight were both going MIA, with Light going on a vacation and Mann deploying to Iraq. So, Quikngruvn and TheRaven were both promoted to administration.
+
+New staff members came at a time when they were desperately needed. The flood of new people had increased dramatically. More people were on the wiki than we'd ever had before, and demographics began to shift. Articles which had been popular for long periods of time began to get downvoted, and as fewer older members stuck around, the culture changed in larger ways. The standard by which articles were judged was changing. Some older users voted based on how they'd seen articles evolve, and the way it tied into the universe. Newfolk would judge everything based on the first time they saw it, and only by the way it was written to them.
+
+They had a lot of questions and tried to raise a lot of discussion, such as talks on object classes, where the Foundation originated from, and how technologically advanced the Foundation was. This frustrated a lot of older members, who wished to keep the old canon the way it was, and not let the newbies change things.
+
+The clashes between older and newer wiki members created a divide. Some older members despised the new users for changing site standards, and bringing down older articles they were fond of. They would pounce on newfolk whenever they could, nitpicking and being rude. On the other hand, new users often had limited and poor understanding of site culture, and how SCPs were written. Many of them believed that LOLFoundation was still in use, and that all articles had to be scary.
+
+It wasn't just new people coming to the Foundation. On May 24th, 2011, DrGears returned after an extended absence. He'd been unable to reach the wiki due to mounting financial and personal difficulties. He was only able to access the wiki via a cellphone, which made it difficult for him to communicate. Gears's activity for the remainder of the year would be extremely sparse, and he was unable to access the IRC.
+
+On June 13th, 2011, Light took a leave of absence from the Wiki. She had been experiencing difficulties in staying connected with wiki affairs, and decided that a temporary leave would be good for everyone. Her leave was among several that happened around the same time, with TheRaven leaving afterwards.
+
+This created a greater demand for new staff members, and so Bright promoted EchoFourDelta to senior staff. This was not a promotion based on a vote by all staff members, but a decision by Bright to fiat his promotion. The next month would bring about more democratic promotions, but this got the ball rolling. It was the last time a staff member was promoted in this way. Sabitsuki was promoted to senior staff on July 11th.
+
+On July 29th, the first real effort to clean up the tagging system began. Page tags had always been a sort of grey, loosely defined area. People had basically tagged their pages however they wanted, and there were a lot of tags that were inaccurate, only used for one article, or contradictory. In short, the system was a mess. Staff recognized this, and put TroyL on to begin cleaning it up.
+
+I've started the first phase of the tag update, which includes tagging all author pages, creepypasta, guides, and Foundation Tales (the latter of which I have defined broadly as anything written by a member of the site and posted here that is not an SCP, guide of some sort, or author page).
+
+The rest will be done much more slowly, but I'm trying to get this part done in one, large chunk, since no new files have been posted in a little bit. I posted (and stickied) a thread on the forum which explains what I'm doing and the current process, as well as how to filter the tag updates out of recent changes. I should be done with this part of the tagging sometime tonight or early tomorrow morning. - TroyL
+
+However, the tag update would be a mixed success, initially. The amount of articles needing to be retagged, or which had been tagged incorrectly, was overwhelming. Tales and creepypastas were tagged fairly quickly, but the process of actually moving in and clearing the tags was extremely difficult. Eventually, the project would be set aside to focus on other issues.
+
+There was also some staff opposition to the changing of page tags at all. DrBright did not like the tag system, and stated that people should be able to tag pages in whatever way they liked. This opposition is another reason why the project was set aside.
+
+There had long been discussion on D-Class personnel and their use in the Foundation. There was issue of whether they were actually obtained from death row, or if they were terminated at the end of the month. This culminated in several extended discussions on the chat, and an eventual forum post by DrGears:
+
+After several discussions on this topic, I felt it best to present my personal view on the subject…
+
+People, after examining the Class D system, invariably ask the question: "where do they all come from?". It then normally evolves in to a rejection of the presented policy, and requests to edit/review how the Class D are handled. However, this skips over what i feel is a rather large point.
+
+Examine this: The Class D are very bad people, who get used against even worse things. They may die, but they are all horrible rapists, murderers, and child molesters, so it's hard to feel too bad about it. Then, at the end of the month, we clean out all the scum we have left, and bring in a new batch, all for the greater good of Humanity.
+
+Does this sound like Foundation policy, or something to help people deal?
+
+How many actual conversations are held with the Class D, besides post-test interviews? Has anyone actually seen the end-of-month terminations? Who can actually confirm with 100% certainty that they are all scum-of-the-earth inmates?
+
+Someone once measured out the total amount of Class-D needed per-month, and it was pretty damn high. However…how many people vanish in a month? I mean just drop off the planet, never to be seen again? How many people die in accidents so bad, they can't be identified by family, or have closed-casket funerals? How many homeless or "off the grid" people are there in the world, who could vanish with little/no notice?
+
+Who to say that unused Class D are not shuffled around between sites? Who knows what they are being told? Who is to say that the whole system isn't set up to help maintain emotional detachment: "This is horrible, but they were going to die anyway, so it's ok."
+
+I think the actual mechanism behind the Class D is something that is found out only after long time employment. Once you've gotten deep enough that a little thing like a shard of the truth won't hurt as much…
+
+Or, it's just a cheap trick to try and bump up the horror of entries, and the bad people get used on bad things for the greater Good.
+Whatever helps you sleep nights. - DrGears
+
+But these small issues would be overshadowed by the demotion of a widely liked site user, over an issue that set the precedent for plagiarism bans and staff conduct.
+
+Sabitsuki was a member of senior staff briefly, with an unfortunately undocumented tenure. During the research for this essay, very few posts made by Sabitsuki were found, with the ones that were located and subsequently identified consisting primarily of chat snippets or replies to people referring to her. She seems to have been promoted primarily for likability and affability in IRC. Three tales and one SCP article created by her still exist, with a high quality of writing (one of her stories has been featured on the front page of the wiki).
+
+In August of 2011, pooryoric called her out for claiming she had created artwork belonging to a different artist. Sabitsuki confessed, and subsequently deleted her WikiDot account. It was agreed that she would be immediately removed from senior staff, the first time a staff member was removed for reasons not relating directly to the wiki. Due to the fact that she had committed plagiarism, it was decided that leaving her as staff would set a poor example.
+
+The reactions displayed by members of senior staff varied. Some were extremely angry that someone would plagiarize work like that, while others sympathized with her and advocated for leniency. The eventual decision was that she would be allowed into the wiki, while being watched to ensure no further instances of this behavior occurred. Sabitsuki left the community permanently shortly after the demotion.
+
+At the beginning of October, staff members were going through the maxim of "cross-linking is bad" and trying to decide official policy on the issue. Was there to be no cross-linking, a limited amount, or anyone being free to do anything they wished?
+
+Most staff seemed to approve of the cross-links, as long as they were done with appropriate context. They also agreed that most cross-linking done on the wiki was not done in an appropriate way. Most linked to articles like SCP-682 or 914, trying to piggyback on their popularity of the higher rated articles on the wiki.
+
+Inspired by the discussion on cross-links, the next subject to be tackled was merchandising the wiki. Unfortunately, this discussion was decidedly less civil. There was an ugly split between the staff members who did support merchandise, and those who thought it would destroy the wiki. Questions raised by this discussion, such as incorporation of the wiki, who would hold the money, and what it would be used for, are still being debated.
+
+On October 11th, Photosynthetic was promoted from senior staff to moderation. Coincidentally, on the same day, the main SCP list (numbers 001-999) became full. We'd filled every one of the original slots, and there was now only one slot left. Seeing an opportunity, site administration started a contest: Write a mythological creature as an SCP, with one winner being given the coveted SCP-1000 slot. There were numerous entries, including the current SCP-1337 ("The Hitchhiker"), SCP-1013 ("Cockatrice") and SCP-1111 ("The White Dog").
+
+The winning entry was SCP-1000 ("Bigfoot"), created by TheDeadlyMoose. Their entry received the most votes by far, ending at 46, with the runner up (SCP-1111) receiving 39 votes. After the contest ended, SCP-1000 was created and everyone began to fill in the new entries to the SCP Series 2.
+
+On the 18th, it was discovered that a thread had been deleted from 05command. The thread in question was a disciplinary action for a user whose initials were "FC". After some investigation, it was discovered that FC had complained to WikiDot: because she had the same username on multiple websites, she felt that a thread which discussed disciplinary action against her, and which mentioned her username, constituted harassment; in response, the WikiDot admins deleted the thread. This caused a big fuss, as many members of administration were miffed that WikiDot would go into their forum and delete a thread outright.
+
+Bright attempted to open communications with the WikiDot team, while the rest of staff discussed the issue. FC herself claimed that she had been bullied, and that staff had violated WikiDot's terms of service agreement. Although these claims are dubious at best, moderator pooryoric was extremely torqued by the proceedings. He made several posts in the thread that made it difficult for staff to argue their point, being very personal and angry remarks.
+
+This incident marked the beginning of staff distrust in WikiDot. Before this, all experiences with them had been positive, such as the Master Admin switchover and with Pro accounts. After this, staff members would start making attempts to move off WikiDot, and to an environment where they would have greater control of wiki affairs. There was also a thought of branching out what the wiki could do.
+
+November brought a new effort to put Foundation writers into the realm of published fiction. DrGears proposed the Electronic Shadows Project, made to bring creepypasta and non-Foundation-exclusive writings into an ebook format, and sell it through Amazon. There was a lot of excitement for the project, and many writers offered to post their works. Even the long-lurking far2 posted in the discussion thread, offering to assist with the management of the project.
+
+However, despite several stories being posted, Electronic Shadows didn't get off the ground. There wasn't enough organization among the organizers, and there was conflict with whether we could even legally sell an ebook, or make one at all. In the end, these questions, and the lack of coordination, would doom Electronic Shadows before December.
+
+On November 19th, Gnosis made a post on 05command asking if the word "faggotry" should be allowed in #site19, since some people could be offended by it. Waxx, the chat owner, made it clear that it would be allowed, and any OP who disagreed could tender their resignation if it bothered them to that degree.
+
+Staff members like Metaphorphosis and Quikngruvn argued that this amounted to censorship, and that a writing community advocating censorship was not a very clever idea. This eventually spiraled into several very, very long posts made by Mann, pooryoric, Nusquam, Metaphorposis and Quikngruvn. This was eventually settled with the agreement that it would only be punished if it was used in the context of a slur, and not in an inoffensive context.
+
+In late November, Gnosis left the wiki, taking with him his chatbot, Grapewhistle. Grape had been the chatbot used in #site19 for most of the year, and had replaced other bots such as Magic_8_Ball and Nala. With the departure of Grape, Nala 2.0 was brought in by Raven Mackenzie to replace it. At this time of writing, Nala is still the bot in use.
+
+The start of December, specifically December 3rd, was marked by yet another round of promotions. TheDeadlyMoose was promoted to senior staff. They were noted as having a definite drive to improve the site and giving good feedback. Adam Smascher was promoted at the same time, also to senior staff. The next week, on December 13th, Dexanote was promoted to moderation.
+
+In mid-December, there was a small issue of returning author rights. User DayDreamin', who had written SCP-213 ("Anti-Matter Parasite"), came out of the woodwork and began editing it under a different account. Staff noticed this and didn't initially realize who he was. However, when the explanation came out, he was allowed to continue and the edits stood. This was one of the first new cases of "old author coming back" an issue that would dog the wiki in the coming year.
+
+As the year wound down, there was one last major issue to discuss. Dr_Kens and Quikngruvn began serious work on a new Foundation website, away from WikiDot. We wanted to leave WikiDot for a number of reasons, most prominent being the FC deletion incident. Having control of the wiki just displayed that arbitrarily shook staff trust in the WikiDot team, and was the primary catalyst for change. Originally, the project was proposed by Mann, with discussion on the project starting on November 26th, and being primarily discussed near the end of the year.
+
+The first issue brought over about the site was how things would be transferred. How would the SCP articles and tales be moved over? Would it be in order, or in the order of the highest to lowest rated?
+
+No. I'm highly against anything that involves having to choose articles to move. Either we move the whole site or none of it. - TheRaven
+
+We would be moving it all, but prioritizing the higher rated stuff first. - Adam Smascher/Nusquam
+
+Nope. I say if we're determining priority like that, we shouldn't be moving. If you need a way to order transfers, do it numerically by page. - TheRaven
+
+There was also the issue of how discussion pages would be transferred over. Due to the limitations of WikiDot, there was no easy way to move things such as the forums, discussion pages, or even page ratings to the new site. This caused some tension between staff members, and sparked some long posts by pooryoric.
+
+I'm not sure moving the forum will ever be doable… Page transfers are easy; it's just tedium that makes that step slow. A team of three or four of us could probably have all page content copied within a week or so if we kept at it. The forums, though, I'm afraid would be a write off; the options that spring to mind are screen shots of the pages as they stand or simply copying every individual post, neither of which seem worth the effort required at all.
+
+Normally, I would agree with bright, in that the forums and discussion threads are a fairly important if not integral part of the site community. However, the issue with wikidot unilaterally deleting f.c's[sic] discussion thread has me antsy. The ability for users to go over our heads like that is not a weapon I like the idea of some of our less responsible users having, particularly in light of all the trolling we've had recently. Personally, I'd really like to get us off of wikidot as soon as we're able, especially since mann is willing to hold the URL for us; and if that means losing the forums, it's an acceptable loss in order to make sure no offended new user starts having our content removed under false pretenses.
+
+Now.
+
+Theraven, making declarations like "If X that makes me unhappy is considered, we should avoid this ENTIRE LINE OF THINKING" is unnecessarily hyperbolic, and starts stupid arguments that bog us down far more than they help. At no point did anyone ever say "we're going to move a few articles, and ditch the rest". What's being discussed is whether or not we should prioritize getting certain articles up first to ensure that readers migrate to the new location as we go, instead of just dumping a whole new site on everyone and losing readers due to the jarring transition. See, no matter what we do, we're going to have to move pages one at a time, unless someone's invented a 'copy website' button while no one was looking. When you do things one at a time, you have to pick an order to do them in. If, as you say, no article is a higher priority than any other, then it doesn't matter what order we do them in, does it? We may as well start with the high rated ones. If you must be too close minded to even consider that option, please simply suggest an alternate method of transfer rather than exaggeratedly shit on the whole plan just to make a point. Making suggestions to replace points you disagree with is helpful; declaring you're too cool to play with the group is not. - pooryoric
+
+The format of the new site was one of many other points of contention. There was an idea to create a "showcase" site, which would be designed to show articles in a more immersive format. If you weren't logged in, there would be no discussion page, rating, nothing that wasn't in-universe. This was also where the first discussion of slush piles appeared, as a way of filtering stories on the showcase site. Stories of a certain rating were to be submitted to senior staff, who would vote on them, and if the vote passed it would be added to the site.
+
+The idea of making a showcase style site was more to kind of block things out design-wise and start getting the URL out there while we get the wiki solution (as well as helping to ensure that as many articles as possible are already preserved in case something happens before we're ready). It's not intended as a permanent solution.
+
+And we're going to lose the forum and the discussion pages. We're going to lose the current ratings. We'll probably have to learn new wiki mark-up for a lot of the things we do, and we may not have modules for the things we depend on, like ratings (though it may be possible to build our own). That's unfortunate, but there's no way that I've been able to find to let us keep that. But as Yoric said, the alternative is losing the entire site down the line.
+
+Wikidot's software would be ideal, but unfortunately, they killed the project for making their software freely distributed. There's a version available, but it's an earlier release, and it may have security issues and lack features we use.
+
+Kens/GX-67 is currently project lead, insofar as he's been putting in work to figure out what we need in terms of hosting. Quik, if you can find decent wiki software that'll suit our purposes, that would be awesome. - DrEverettMann
+
+There would be more debate on how a new host for the SCP Wiki could be found, but these would be less pronounced in the beginning of the coming year. There was a storm brewing, and it was about to breach the floodgates.
+
+The fifth year of the wiki started off with some drama. Photosynthetic accidentally deleted the forums. This caused a small bit of panic, until it was restored by Bright. It was the "fourth or fifth time it had happened" according to Mann.
+
+Notably, snorlison rose from inactivity to post about the forum deletion on 05command, indicating that he had been too busy with life to be active on the site, but still following current events.
+
+On January 8th, TroyL posted in the emergency section 05command about the use of deleted accounts to boost the rating on certain articles. Several people had apparently been known to have deleted their account after voting or posting only a few times. Thus, he proposed a policy of not counting votes which had originated from deleted WikiDot accounts in deletion votes. This measure was adopted by staff.
+
+On January 20th, TheRaven discovered a WikiDot wiki based on a MC&D theme, set up by users from SomethingAwful. Additionally, TheRaven posted being uncomfortable with a wiki run by these users, since they had been critical of the site in the past. However, most other staff seemed to have no issue with it, and TroyL pointed out that since staff couldn't tell them not to do something, they should just let them do it and keep an eye on them.
+
+TroyL also began to run a sequel series to his well-liked series "And Then I Died." It was a collection of stories about SCP articles killing people. It lasted for several months, before being shut down by Troy, partially due to difficulty in guessing the SCP objects.
+
+On January 31st, judgedead made a forum post showing the Chinese SCP Foundation translation site, the first time this site had been seen by the English SCP Foundation. Two days later, on February 2nd, EchoFourDelta and TroyL reached out to the Chinese, giving them official recognition and linking them from the front page of the wiki.
+
+February brought about a change for the editing policy on old articles. SCP-090, Apocorubik's Cube, was rewritten by a user named GXS who claimed to be the original author. This was an article that had been written on EditThis, so the original authorship could not be conclusively determined. The decision was made by TroyL, pooryoric, and Photosynthetic to revert the change. DrGears made this post in the thread:
+
+Agreed, orginal author or not, if you re-write something and make it start dropping, it should be reverted. We're here not for anyone's ego (ideally), but to create a positive body of work. Normally, i'm happy to let folks make their own mistakes, but i think a revert in this was a good idea. - DrGears
+
+Later that month, on February 13th, TheRaven made an 05 post calling pooryoric out on behavior in the forums. Yoric had taken it upon himself to edit another users post, and make disparaging remarks in the thread, all because the user soullesshuman(now SoullessSingularity) had claimed that the story was the first they had posted. This was true, in a way. Soulless had posted a creepypasta that had been deleted, but never a tale. They had received staff permission before going to call this tale their first.
+
+In any case, Yoric's actions were seen as entirely inappropriate. Editing another users post because you disagreed with them, or because you were upset at what they had done was an abuse of moderation power. Adam Smascher put it this way in the 05 thread.
+
+Calling Soulless out, whatever, that's all well and good. I couldn't care less. Using moderator rights to edit her post and call her a liar? That's damn petty and completely unnecessary. Making it into an argument in the discussion thread, dredging up a copy of her deleted creepypasta attempt, and posting it with the context of an implicit threat issued in PMs is frankly unacceptable to me. - Adam Smascher
+
+By the next day, administration had decided that Yoric's behavior was severe enough to warrant demotion from moderator to senior staff member. This decision was made by Bright, Mann, Light, and TroyL.
+
+Yoric posted in the thread shortly afterwards, trying to defend himself. Explaining that a series of unfortunate events had caused him to be upset, including mishearing about the death of a friend and having his girlfriends religious beliefs disparaged by other staff members. In addition, he made the claim that the thread had been made two days after the issue had been resolved.
+
+Gears and Troy pointed out that his sense of timing was off, and that the thread had been created before he thought it had been, and that he'd been warned many times about these infractions.
+
+We've told you, several times, to leave soulless the hell alone. We've told you, several times, to be more aware of what you're posting, at that sometimes silence is the best statement. You've been warned many times, by me alone, that you're not on terribly thick ice and that, if there continue to be incidents, action will have to be taken. Yes, it hurts, and it feels wrong, I'm not sure how well I'd take it if i was bounced down, but it should not be a total bolt from the blue. - DrGears
+
+As yoric was being demoted, another old demoted user resurfaced. Dr. Kondraki, who had been stripped of his powers and taken a self-exile from the SCP community several years prior, contacted Dexanote with this appeal:
+
+Hello again,
+
+It'll be three years this June, three years since I was banned from the #site19 chat and left the wiki. Since I caused the chaos that led to my eventual dismissal as an administrator. While the majority of you weren't there, those who were still remember my mistakes.
+
+Some of you might be expecting me to attempt to excuse these mistakes, or attempt to defame those who brought charges against me, in an attempt to ameliorate my own guilt. I did not write this with either of those things in mind, however, because to do so would be dishonest. I did those things, and I was punished for them. My goal however, with this appeal, is not to explain away my crimes, but to simply ask for a second look upon the perpetrator.
+
+Three years is a very long time when placed within the transition from high school to college, from the easy wins and passing grades to a world where things now mattered, and a lack of attention or seriousness could lend towards actual consequences. Simply put, the me that you banned is gone, lost to that moment in time that exists now only in the minds of those who remain resolute on maintaining my ban. I can only imagine that you may still see me as that immature child, who may cause the same problems that you banished me for in the first place, but I ask you to simply take a second look.
+
+While I was never banned from the Wiki, I never posted again after being removed from the chat. This was a simple decision for me, one that hasn't changed since I first made it. The reason is clear: being part of the official chat is an integral part of the creative experience here. I suggested a chat in the first place as a way to better communicate, to more efficiently work together, and to this day it serves this function. So, this appeal is not for my access to the wiki, but to be given the right to once again speak freely amongst the community I once belonged to.
+
+So in conclusion, I would like to state my purpose once more in clarity. I wish to return to SCP, and one again provide content as I once did. Unlike some others who have also departed, I left my work to your hands once I was gone, knowing that it was part of something greater. All I ask is a chance to once again be part of the ever evolving universe that I once so fervently contributed to.
+
+Sincerely,
+
+Dr. Kondraki. — DrKondraki
+
+The decision was that, since he had never been banned, Kondraki would be able to return to the site without incident. Although Kondraki has resurfaced shortly several times since this proclamation, he has not been a seriously involved member of the SCP community since 2009.
+
+By the end of the month, what had been the normal trickle of new site users rapidly exploded. Although the reason for the sudden population boom wasn't immediately apparent, it still had to be dealt with. Numerous new SCP articles were being posted every day, and many of them were extremely poor. Staff was overwhelmed as they attempted to deal with this sudden user surge.
+
+just a random look and realization. we've known that tons more people have been joining lately, but this is crazy.
+
+site started in July '08.
+
+from July '08 - July '09, we got about 450 new members.
+
+from July '09 - July '10, we got about 530 new members.
+
+from July '10 - July '11 we got about 625 new members.
+
+from July '11 - present, we have had over 2000 new members, more than all the previous years combined. - RhettSarlin
+
+It would soon become apparent where this surge came from: An SCP game, about SCP-087. The original game was buggy, low-tech, and very primitive. It was also very popular, gaining attention from gaming sites such as Rock Paper Shotgun. It drew thousands of new users into the SCP Foundation community. This surge of new users dwarfed the previous booms seen when the Foundation was featured on TvTropes and other websites. As an example to how things were immediately changed, the lowest pages usually reached prior to the SCP-087 game was between -7 and -10. After the game, entries could get as low as -20, or even -30.
+
+But this would soon be overshadowed by the arrival of an even bigger game. On March 6th, 2012, site user Djoric noted the development of a new SCP Foundation game, called "Containment Breach".
+
+The arrival of Containment Breach is the most powerful event to impact the wiki. Never before had one thing created such an influx of traffic, recognition, and new users. It created the attention needed to inspire the Minecraft mod, and the traffic created by new users was the catalyst for moving to a better site. The game itself is about a D-Class, who is chased by SCP-173 throughout Site19. It also features several other SCP articles, including SCP-420-J, SCP-106, SCP-096, SCP-895, SCP-372, SCP-860, and SCP-079. It is being developed by a Finnish man named Regalis.
+
+This game, combined with the other games inspired by it, brought about a wave of unprecedented traffic to the wiki. We went from having 50 applications in a month to having that many every day. That number kept up every day, and resulted in the number of new articles being posted increasing dramatically. This would cause some great new content to be created, but also caused a lot of headaches for mods and admins.
+
+One of the problems generated by the new traffic was causing WikiDot to glitch and act erratically. These have been everything from seeing other profiles when you log in, constant page refreshing, the website crashing in general, to the forums being disabled, and votes being counted multiple times.
+
+On March 23rd, Mackenzie launched the revamping of the sites tagging system. Previously, users had been able to tag any article with more or less no oversight, and as such, the tag system had become incredibly bloated and unwieldy. While until now, staff had been content to let things stay in the status quo, and there were still a few at this point who didn't believe it, the change needed to occur.
+
+Hundreds of useless or bloated tags were deleted, simplified, and standardized. It was a monumental effort, and one which users are reminded of every day when they're actually able to use the site tags to find articles.
+
+The 3rd of April had more discussion of SCP-076 on 05command, where Adam Smascher proposed the creation of a new rewrite on it. This proposed rewrite would've updated Able to a point where the Foundation would terminate him, following the end of Omega-7. Although several staff members supported the change, it was denied by others, including Kain(the original author) and Clef(the author of the current rewrite).
+
+The original SCP Foundation I wrote for is long gone. We had things that were mere oddities, here because they didn't work well with the laws of reality, bad things and good things, dangerous and beneficial. Granted, I'm not saying we had the best of things, or even decent things, but for me, it worked. Vaguely reminiscent of Eerie Indiana. Sure, there was weird shit, bad things happened, but it was more about the panoply of the bizarre, rather than only the hideous.
+
+Now, it seems that everything we have is some psychological horror from beyond the depths of time and space. There is no good, or even gray, merely differing shades of black. Hope is a useless word, and everything in this world is corrupted in some sort of way. And while that's nice and all, well… It's tiring for me. I don't deal well with that kind of thing. I can't watch scary movies. I can barely play horror games. I have an innate sense for what makes people scared, but that's just me listing what terrifies me.
+
+Despite what people might think, Able wasn't a Mary-Sue for me. I just thought it would be a nice thing to write at the time. And it has been one of the most read, most loved and most hated of anything I've ever written. Do I regret writing it? No. Do I regret how it's changed? No. Do I regret the hate it pulls? Actually, that makes me laugh more than anything. Why? Because they remembered it. - Kain Pathos Crow
+
+In the end, it was decided that the current rewrite of SCP-076 would be allowed to stand, due to its satisfactory rating and mixed reception it had received from other senior staffers.
+
+On April 10th, DrGears made a forum post about a possible new way to structure Project Foundation:
+
+A long, long time ago, we were batting around ideas about the site direction, and I had a thought. Basically, it involves a twin-site concept. Basically, the wiki remains more or less untouched, but as a “factory floor”. Ideas are proposed, worked out, refined and posted, stories written, all of that. However, there is now a “showroom” site, which holds the top entries, the most creepy, bizarre, and generally well-received ones we have, the entries almost anyone can point at and say “this is a good example.” — DrGears
+
+Dr_Kens, a staffer with experience in web design, posted that doing a showroom website would be simple, and not difficult to accomplish. However, Adam Smascher posted asking whether such a site would be pointless, since most users wouldn't care about it and the function was just as easily done with the top rated page. DrGears posted that such a page would be helpful to immersion, but not all agreed immersion was always good:
+
+I'm generally against the idea, because we'd end up with a LOT more of them idjits going 'OMG the SCP is real!' and, well, the idea seems kind of exclusive. - DrBright
+
+There was also discussion on what articles would make it into a showroom site, and which would be left behind. The general consensus was that all articles over +30 would be shown on this showroom site. This applied to mainlist articles, specifically leaving -J's out of the process. It also had the potential to act as a backup forum, in case WikiDot went down.
+
+There were many other similar discussions on 05 about future migration, such as terms of service, slush pile policy, membership, money, and legal stuff.
+
+Senior staffer pooryoric made a return to the forums on April 24th his first major post since the incident in February, explaining why he had been inactive since the soulless incident. There had been a cavalcade of issues in his life which had prevented him from interacting with the community. This was met with a favorable reaction in the thread, where he was informed of new information and generally welcomed back.
+
+The "eric" character was removed from the GOI list on April 22nd, for being more of an in-joke than a GOI.
+
+The Groups of interest page had long been a familiar board of organizations. There had been occasional new entries, such as Dr. Wondertainment and Alexylva University, but these were few and far between. This year however, there were several new groups of interest, including the Fifth Church, GRU Division "P", a Soviet anomaly collecting organization, the Horizon Initiative, a religious organization, and the most popular, Are We Cool Yet?
+
+GRU Division P was created by VAElynx, a fan of Soviet history who had long wanted to make the Soviet Union have a greater narrative presence in the SCP Universe. GRU-P was made possible by him collaborating with a few articles, creating enough content to justify being on the list.
+
+The Horizon Initiative, primarily used by Dmatix and Djoric, was added due to the massive amount of content amassed behind it, including a 001 proposal. It focused on a collection of Abrahamic religions working together with anomalous elements. The Fifth Church was a take on more modern religions, such as Scientology and Evangelism.
+
+Are We Cool Yet?'s addition came after Voct added the entry on April 14th, 2012, the day after he rewrote SCP-1057. This was in addition to several other articles, with the other notable being Yoric's 2011 "coming soon from a gallery near you".
+
+On May 2nd, 2012, TroyL made a post on 05command regarding TheRaven's conduct as an administrator of the SCP wiki. He provided evidence of TheRaven acting rashly, and making knee-jerk decisions when presented with problems. Evidence was provided in several chat logs, which showed TheRaven reacting to several situations in a manner TroyL postulated as not fit for an administrator.
+
+The logs showed TheRaven making hotheaded statements, and generally not acting in the way expected of somebody with administrative capacity. He was voted out of his position as administrator to regular user by a super-majority vote.
+
+Adam Smascher posted about the deletions guide on the 5th of May. His proposals for changing the deletion threshold from -5 to -10 was accepted, as was the new designation of the -25 early deletion point. Other things, such as four votes with a staff member who isn't the fourth voter deleting, were also added.
+
+RhettSarlin made a proposal which may sound familiar to modern readers, when on May 9th he proposed the creation of "Technical Staff". While not being completely similar to the modern staff structure, it is notable that this is the first time a different structure to staff was really proposed and discussed, even if the discussion amounted to a rejection of the proposal.
+
+On May 19th, Adam Smascher posted on the 05 emergency forums, reporting the severe glitching and errors which had been coming off the site, due to the WikiDot infrastructure being unable to handle traffic coming to the wiki. There were problems of posts being repeated multiple times, lag when making a post or navigating to a new page, and being taken to pages you weren't trying to get to.
+
+There was a fear that if WikiDot suddenly collapsed, the community wouldn't be able to recover, being scattered as different people tried to re-organize or recreate the community on their own. The prospect of moving to a new site, which had been somewhat dormant, came back to the forefront. On May 25th, several staff members discussed the possibility of a site move with Raven Mackenzie, which showed that she had been creating new code for a next-generation version of the Foundation website. This would become Project Foundation, a next-generation project for the SCP Foundation wiki.
+
+On the 29th, the deletion guide received a significant rewrite, in light of new site standards and the influx of new users.
+
+Sorts posted on June 4th regarding old test logs, and how to edit them. This is where the consensus of "three staff members to revert" came into being, after some extraordinarily poor testing logs being added to SCP-447 and SCP-423.
+
+By the 11th, the creation of any new guide was suspended, due to an administrative review of the current guides. It had been decided that there were too many guides, to the point that a "guide to guides" was necessary in order to organize and explain them. There were over 30 different guides on the wiki, and it created an enormous obstacle for new people wishing to join.
+
+Sorts posted to the Wiki User section of 05command on June 27th, after a wiki user named "Scroton" had laid claim to SCP-579 and SCP-071. Scroton claimed to be the original author from EditThis, and attempted to prove it by showing his original drafts created in an old notebook. Some staff members were pleased to see old authors returning. However, there was the issue of whether site policy allowed for old authors to reclaim and change works.
+
+I'm conflicted on this. It's something that's either one way or the other - either the author has total control over what they've posted, or they don't. On the one hand, stated wiki policy has been that if an author wants their work deleted (this sounds tangential, but there's a point I promise) then it will be with no questions asked. On the other hand, precedent exists for the author not having absolute control. — Adam Smascher
+
+The precedent referred to is the SCP-090 rewrite, which was reverted after the original author changed the article and resulted in it nearly being deleted. This set a precedent for staff control over older articles, and an ability to revert if old authors changed things in a way the community thought worsened its quality.
+
+The guide reform was completed on July 17th, with new versions of the deletions, tagging, how to write an SCP, object classes, and others being streamlined, or moved to the new "essay" format.
+
+On the 22nd, a user named Squonk asked for permission to join the site. He was Fishmonger1, and he claimed to have penance for his actions years ago. His message to the site was
+
+Hello, Gears. It's Fish.
+
+Two years ago I was a total jerk to you and a lot of other people. I don't mean the separation from the site; that was just the coup de grace of a long suffering period of asininity. I would like to start off the message by sincerely apologizing to you and the rest of the site for my behavior and my flagrant and repeated transgressions against the SCP community. I was, in short, out of control, and you and the other admins did what you had to do to effect control, leading up to and including my expulsion from the site. I do not hold that against you; again, I was a complete asshole and the punishments enacted against me were both fair and warranted.
+
+I'm approaching you about this subject now for two reasons. One, because events of the last two years have caused me to realize how much of a bastard I've been to many people, and that I don't want to be that person anymore. I have tried to make considerable changes in my behavior and my attitude over the past two years in order to better integrate with people in both my real life and on the internet. I've been fortunate to have many people help me in that regard, not the least of which is my domestic partner, whose patience and determination has been greatly influential. I'm frankly humbled that after causing so much misery in the world that there are still people who think I am worth the effort to try to help.
+
+The second reason is because I have, as you tried to explain to me two years ago, only hurt myself and the fans of my work by having you take down my submissions to the SCP. I don't propose that those should be reinstated; too much history has occurred in the interim for that to be canonically practical, and in any case I wouldn't suggest it anyway, as I realize that would be arrogant. But, if it is acceptable to the administration, I would like to request my reinstatement as an author. I ask for no special privileges. I'm willing to perform any atonement deemed necessary; I will start from square one, go through boot camp, jump through whatever hoops are set before me to prove my desire is sincere; indeed, this is why I have started a new account rather than attempt to salvage the old one, and have come to you openly rather than try to hide my identity. I would only like the chance to add something again to the site and perhaps, in some small way, reverse the damage I have caused previously. If it is ultimately decided that such a provision is not worth the risk that I will return to old habits, and my plea for redemption is denied, then I will also accept that judgment without complaint as fair and make no further attempt to sway you.
+
+Thank you for your consideration. — Fishmonger
+
+While there was initial positive reaction from newer staff members, the older ones who had suffered through the Fish debacle balked at the idea of allowing him to return to the site. His appeal was declined.2
+
+In the 14th of August, Quikngruvn posted in the emergency section of 05command that DrGears WikiDot Pro account had expired, and as such no additional images could be uploaded. Immediately, there was a scramble to contact DrGears, and to purchase another Pro account.
+
+Gears was not available, due to pressing difficulties in his actual life. In a discussion lasting until October 3rd, it was decided that, since any fundraising funds had been spent on the last pro account and for testing of a possible future site hosting, and since DrMann had controlled the account which paid for both of those, that Mann would be made the Master Administrator for the purpose of keeping the Pro Account active.
+
+Most of the threads in the mostly-unused voting section of 05command were also added in August, about membership, submissions, and the rules of voting. There was also a later thread in November about having numbers in usernames.
+
+On September 12th, murphy_slaw, Drewbear, Djoric, Eric_H and Roget were put up for senior staff promotion, with Soulless being placed up for moderation on the 29th. All were given promotions by the end of the 16th, except Roget, for whom it was decided more time was necessary. There was one administrative promotion done, which was the first to be done using the new system. Sorts was nominated by TroyL, after a series of discussions with other administrators.
+
+It was pointed out to me today that we did have someone we'd talked about promoting to administrator a few times now, and given his current level of work on the site, I was remiss in not bringing it up. From now on, an individual thread will be made for each rank for all potential promotions. If no people are up for promotion, a thread will be made noting that fact (as you might have noticed with the moderator thread that was just made).
+
+But we do have someone.
+
+To Administration: Sorts. - TroyL
+
+The promotion went through unanimously.
+
+Necroposting came up in early October, with a general consensus of it not being a big deal, with general consensus saying six months was long enough time for an inactive thread to be locked down.
+
+On October 8th, 2012, far2 made a return appearance in the forums, posting a WikiDot module which could serve as a back/next button. This was followed by a brief period of activity, as far2 began writing a story based on a post he had created in another thread, about Foundation energy sources. When it was posted, the story was met with a mediocre response and was subsequently deleted3. Following this, he resumed inactivity and has not posted since.
+
+On October 11th, after an informal agreement in the staff chat, Dexanote removed the IRG group of interest from the groups of interest page. It'd been decided that since the IRG was a real organization, it shouldn't really belong on the page. However, no note was made of this deletion on the page or on the admin site. People quickly noticed, and raised a fuss about it.
+
+Wiki user Gaffney volunteered to change the IRG into a more palatable and fictional organization, the Office for the Reclamation of Islamic Artifacts, or ORIA. Most articles which were attached to the IRG were switched over to the ORIA, with the exceptions of Bijhan's personnel file and several archived articles which had been authored by Bijhan.
+
+On October 19th, the SCP Foundation forums became inaccessible to normal user access. The issue lasted from 8:18 AM(EST) to 2:14 PM(EST). It was caused by a bug on WikiDot, related to a new feature they had introduced shortly before the incident occurred, and had affected numerous other sites.
+
+On November 26th, Sophia Light retired from Administration, and took up a position as a moderator. It was simply too much to try and keep up with the new pace of the site, in addition to balancing real life business.
+
+This has been a while coming, but I've found that- now and in the likely future- I've been unable to give the wiki the time or attention that it deserves. As such, I'm officially stepping down as administrator, back to mod. It's been good run, but I think this will suit me and the site best.
+
+Cheers, everyone! — Sophia Light
+
+On December 11th, the second round of regular promotions began, with staff and mod promotions being given. Roget, Dmatix, Silber and Jekeled up for staff promotion. After a 3 day period of voting, Roget, Dmatix, and Jekeled were promoted to senior staff. Silber received 54% of the vote, which was deemed by administration to be insufficient to justify a senior staff promotion. For moderation, Heiden, Drewbear, and Eskobar were nominated, and each received a unanimous backing from all voters in the pool.
+
+Later in December, an SCP Foundation themed modification of the PC game "Minecraft" had been created, and was being distributed through the Minecraft forums. This in of itself was not an issue, but the mod was another case of improper licensing and attribution. The mod creators had claimed copyright over all the modifications resources, which was invalid due to the creative commons license.
+
+Senior staff members were able to contact the modders. When an initial post on their forum was made by EchoFourDelta, there was initial misunderstanding from the modding community that they were in some way being punished. This was soon smoothed over, and the modders were able to successfully apply the creative commons license to their product.
+
+With the Minecraft mod adding to the overwhelming amount of improperly licensed or non-licensed materials being produced, administration decided that something had to be done about the situation. Prior to this, an unofficial guide to the Creative Commons Licence had been created by user Syka, but a more substantial and official document was needed to show the numerous license seekers how to obtain it. So, on December 12th, the Licensing Guide was created.
+
+This guide was a brief, but detailed explanation on how outside parties could create, sell, or otherwise distribute merchandise based on the SCP Foundation. It went over how to properly attribute the works they were deriving, the limits and restrictions placed on selling these items, and a simplified but informative guide on the share-alike portion of Creative Commons.
+
+Later in the month, on December 24th, the SCP-RU site posted a guide of XK-Class scenarios. This page was eventually downvoted into deletion range, due to the canon of the page being closer to the SCP-RU site, and using some Fishmonger details.
+
+So, this concludes our trip through the history of the SCP Foundation wiki, at least for now. After a not insignificant amount of time, hopefully the end was worth the wait. My goal is that, by knowing our history, we will be able to know the mistakes and triumphs of our past, and be able to apply it to the future. Maybe we'll have more sweet contests, or move to a new site, or maybe something unexpected will happen that totally blows us all away! I see a great future for this community, and I look forward to experiencing it with you.
+
+Thank you for reading.Embed
